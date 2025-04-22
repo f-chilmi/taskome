@@ -1,4 +1,7 @@
 import { logger } from "../utils";
+import dotenv from "dotenv";
+
+dotenv.config();
 
 function env(name: string, required?: true): string;
 

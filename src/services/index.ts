@@ -5,3 +5,4 @@ export * from "./hashing.service";
 export * from "./token.service";
 export * from "./task.service";
 export * from "./pagination.service";
+export * from "./redis.service";

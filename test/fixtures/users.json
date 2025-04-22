@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "68078fb0fb5db2f38017bd21"
+  },
+  "name": "chilmi",
+  "email": "chilmi@mail.com",
+  "password": "$2b$12$9j1mZ0kgjYhGSYoIvKumyOU7tqsepfAZ3APHNKH9TCZnxyj4oSMze",
+  "role": "user",
+  "createdAt": {
+    "$date": "2025-04-22T12:46:40.175Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-22T12:46:40.175Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68079047fb5db2f38017bd2b"
+  },
+  "name": "test",
+  "email": "test@mail.com",
+  "password": "$2b$12$EahBtXgT16mDxvxa/QwRRucaJYzEvyCAVPKbBXXj6T.KYLC4cDpcK",
+  "role": "user",
+  "createdAt": {
+    "$date": "2025-04-22T12:49:11.433Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-22T12:49:11.433Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,204 @@
+[{
+  "_id": {
+    "$oid": "68079070fb5db2f38017bd2f"
+  },
+  "title": "Grocery shopping",
+  "description": "Buy item a, b, c, d",
+  "status": "notStarted",
+  "dueDate": {
+    "$date": "2024-04-23T00:00:00.000Z"
+  },
+  "assignedTo": {
+    "$oid": "68079047fb5db2f38017bd2b"
+  },
+  "createdAt": {
+    "$date": "2025-04-22T12:49:52.331Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-22T12:49:52.331Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68079087fb5db2f38017bd31"
+  },
+  "title": "Book doctor appoinment",
+  "description": "book dr. John for checkup",
+  "status": "notStarted",
+  "dueDate": {
+    "$date": "2024-04-23T00:00:00.000Z"
+  },
+  "assignedTo": {
+    "$oid": "68079047fb5db2f38017bd2b"
+  },
+  "createdAt": {
+    "$date": "2025-04-22T12:50:15.681Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-22T12:50:15.681Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68079094fb5db2f38017bd33"
+  },
+  "title": "Write journal",
+  "description": "",
+  "status": "notStarted",
+  "dueDate": {
+    "$date": "2024-04-23T00:00:00.000Z"
+  },
+  "assignedTo": {
+    "$oid": "68079047fb5db2f38017bd2b"
+  },
+  "createdAt": {
+    "$date": "2025-04-22T12:50:28.947Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-22T12:50:28.947Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6807909cfb5db2f38017bd35"
+  },
+  "title": "Pay bills",
+  "description": "",
+  "status": "notStarted",
+  "dueDate": {
+    "$date": "2024-04-23T00:00:00.000Z"
+  },
+  "assignedTo": {
+    "$oid": "68079047fb5db2f38017bd2b"
+  },
+  "createdAt": {
+    "$date": "2025-04-22T12:50:36.814Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-22T12:50:36.814Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680790a5fb5db2f38017bd37"
+  },
+  "title": "Follow up with clients",
+  "description": "",
+  "status": "notStarted",
+  "dueDate": {
+    "$date": "2024-04-23T00:00:00.000Z"
+  },
+  "assignedTo": {
+    "$oid": "68079047fb5db2f38017bd2b"
+  },
+  "createdAt": {
+    "$date": "2025-04-22T12:50:45.170Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-22T12:50:45.170Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680790aefb5db2f38017bd39"
+  },
+  "title": "Plan weekend trip",
+  "description": "",
+  "status": "notStarted",
+  "dueDate": {
+    "$date": "2024-04-23T00:00:00.000Z"
+  },
+  "assignedTo": {
+    "$oid": "68079047fb5db2f38017bd2b"
+  },
+  "createdAt": {
+    "$date": "2025-04-22T12:50:54.753Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-22T12:50:54.753Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680790b6fb5db2f38017bd3b"
+  },
+  "title": "Review code",
+  "description": "",
+  "status": "notStarted",
+  "dueDate": {
+    "$date": "2024-04-23T00:00:00.000Z"
+  },
+  "assignedTo": {
+    "$oid": "68079047fb5db2f38017bd2b"
+  },
+  "createdAt": {
+    "$date": "2025-04-22T12:51:02.256Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-22T12:51:02.256Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680790c1fb5db2f38017bd3d"
+  },
+  "title": "Finalize presentation",
+  "description": "",
+  "status": "notStarted",
+  "dueDate": {
+    "$date": "2024-04-25T00:00:00.000Z"
+  },
+  "assignedTo": {
+    "$oid": "68079047fb5db2f38017bd2b"
+  },
+  "createdAt": {
+    "$date": "2025-04-22T12:51:13.142Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-22T12:51:13.142Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680790d0fb5db2f38017bd3f"
+  },
+  "title": "Exercies",
+  "description": "",
+  "status": "notStarted",
+  "assignedTo": {
+    "$oid": "68079047fb5db2f38017bd2b"
+  },
+  "createdAt": {
+    "$date": "2025-04-22T12:51:28.277Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-22T12:51:28.277Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680790d5fb5db2f38017bd41"
+  },
+  "title": "Read a book",
+  "description": "",
+  "status": "notStarted",
+  "assignedTo": {
+    "$oid": "68079047fb5db2f38017bd2b"
+  },
+  "createdAt": {
+    "$date": "2025-04-22T12:51:33.231Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-22T12:51:33.231Z"
+  },
+  "__v": 0
+}]

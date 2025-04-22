@@ -176,3 +176,256 @@
 {"level":"info","message":"[2025-04-22T12:16:27.573Z] GET /api/v1/tasks?pageNumber=2&pageSize=10"}
 {"level":"info","message":"Server is running on http://localhost:8080"}
 {"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"[2025-04-22T12:46:34.533Z] POST /api/v1/auth/login"}
+{"level":"error","message":"Login failed: Invalid email or password","stack":"Error: Invalid email or password\n    at AuthService.login (/Users/chil/Documents/Github/learn/taskome/dist/services/auth.service.js:50:23)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async /Users/chil/Documents/Github/learn/taskome/dist/controllers/auth.controller.js:21:22","status":401}
+{"level":"info","message":"[2025-04-22T12:46:39.837Z] POST /api/v1/auth/register"}
+{"level":"info","message":"[2025-04-22T12:46:43.612Z] POST /api/v1/auth/login"}
+{"level":"info","message":"[2025-04-22T12:46:48.045Z] POST /api/v1/auth/logout"}
+{"level":"info","message":"[2025-04-22T12:49:11.109Z] POST /api/v1/auth/register"}
+{"level":"info","message":"[2025-04-22T12:49:52.320Z] POST /api/v1/tasks"}
+{"level":"info","message":"[2025-04-22T12:50:15.676Z] POST /api/v1/tasks"}
+{"level":"info","message":"[2025-04-22T12:50:28.943Z] POST /api/v1/tasks"}
+{"level":"info","message":"[2025-04-22T12:50:36.810Z] POST /api/v1/tasks"}
+{"level":"info","message":"[2025-04-22T12:50:45.163Z] POST /api/v1/tasks"}
+{"level":"info","message":"[2025-04-22T12:50:54.749Z] POST /api/v1/tasks"}
+{"level":"info","message":"[2025-04-22T12:51:02.251Z] POST /api/v1/tasks"}
+{"level":"info","message":"[2025-04-22T12:51:13.138Z] POST /api/v1/tasks"}
+{"level":"info","message":"[2025-04-22T12:51:28.274Z] POST /api/v1/tasks"}
+{"level":"info","message":"[2025-04-22T12:51:33.229Z] POST /api/v1/tasks"}
+{"level":"info","message":"[2025-04-22T12:51:37.468Z] GET /api/v1/tasks?pageNumber=2&pageSize=10"}
+{"level":"info","message":"[2025-04-22T12:51:41.496Z] GET /api/v1/tasks?pageNumber=1&pageSize=10"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"[2025-04-22T12:57:59.033Z] POST /api/v1/tasks"}
+{"level":"info","message":"[2025-04-22T12:58:20.750Z] DELETE /api/v1/tasks/680792576a69dc5f26b60d0d"}
+{"level":"info","message":"[2025-04-22T12:58:37.007Z] POST /api/v1/auth/login"}
+{"level":"info","message":"[2025-04-22T12:58:40.769Z] DELETE /api/v1/tasks/680792576a69dc5f26b60d0d"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"[2025-04-22T12:59:19.226Z] DELETE /api/v1/tasks/680792576a69dc5f26b60d0d"}
+{"level":"info","message":"!user"}
+{"level":"info","message":"[2025-04-22T12:59:40.427Z] DELETE /api/v1/tasks/680792576a69dc5f26b60d0d"}
+{"level":"info","message":"!user"}
+{"level":"info","message":"[2025-04-22T12:59:43.242Z] POST /api/v1/auth/login"}
+{"level":"info","message":"[2025-04-22T12:59:52.083Z] DELETE /api/v1/tasks/680792576a69dc5f26b60d0d"}
+{"level":"info","message":"!user"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"[2025-04-22T13:00:01.453Z] DELETE /api/v1/tasks/680792576a69dc5f26b60d0d"}
+{"level":"info","message":"!req.user?.id"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"[2025-04-22T13:00:34.955Z] DELETE /api/v1/tasks/680792576a69dc5f26b60d0d"}
+{"level":"info"}
+{"level":"info","message":"!req.user?.id"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"[2025-04-22T13:01:20.080Z] DELETE /api/v1/tasks/680792576a69dc5f26b60d0d"}
+{"level":"info","message":{"id":"68078fb0fb5db2f38017bd21"}}
+{"level":"info","message":"!user"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"[2025-04-22T13:01:42.201Z] DELETE /api/v1/tasks/680792576a69dc5f26b60d0d"}
+{"level":"info","message":{"id":"68078fb0fb5db2f38017bd21"}}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"!user"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"[2025-04-22T13:02:31.224Z] DELETE /api/v1/tasks/680792576a69dc5f26b60d0d"}
+{"level":"info","message":{"id":"68078fb0fb5db2f38017bd21"}}
+{"level":"info","message":"user.role !== RoleEnum.ADMIN"}
+{"level":"info","message":"[2025-04-22T13:02:44.931Z] POST /api/v1/auth/register"}
+{"level":"info","message":"[2025-04-22T13:02:47.699Z] DELETE /api/v1/tasks/680792576a69dc5f26b60d0d"}
+{"level":"info","message":{"id":"680793754d6110c8b4041076"}}
+{"level":"info","message":"user.role !== RoleEnum.ADMIN"}
+{"level":"info","message":"[2025-04-22T13:03:08.405Z] POST /api/v1/auth/register"}
+{"level":"info","message":"[2025-04-22T13:03:11.104Z] DELETE /api/v1/tasks/680792576a69dc5f26b60d0d"}
+{"level":"info","message":{"id":"6807938c4d6110c8b404107c"}}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"[2025-04-22T13:15:23.698Z] GET /api/v1/tasks?pageNumber=1&pageSize=10"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"[2025-04-22T13:16:05.233Z] GET /api/v1/tasks?pageNumber=1&pageSize=10"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"[2025-04-22T13:16:18.761Z] GET /api/v1/tasks?pageNumber=1&pageSize=10"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"[2025-04-22T13:16:49.919Z] GET /api/v1/tasks?pageNumber=1&pageSize=10"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"[2025-04-22T13:17:51.073Z] GET /api/v1/tasks?pageNumber=1&pageSize=10"}
+{"level":"info","message":"getInstance"}
+{"level":"info","message":"getClient"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"getInstance"}
+{"level":"info","message":"getClient"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"getInstance"}
+{"level":"info","message":"getClient"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"[2025-04-22T13:22:15.561Z] GET /api/v1/tasks?pageNumber=1&pageSize=10"}
+{"level":"info","message":"getInstance"}
+{"level":"info","message":"getClient"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"getInstance"}
+{"level":"info","message":"getClient"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"getInstance"}
+{"level":"info","message":"getClient"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"[2025-04-22T13:24:26.297Z] GET /api/v1/tasks?pageNumber=1&pageSize=10"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-04-22T13:24:46.740Z] GET /api/v1/tasks?pageNumber=1&pageSize=10"}
+{"level":"info","message":"Tasks retrieved from cache"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"[2025-04-22T13:26:15.838Z] GET /api/v1/tasks?pageNumber=1&pageSize=10"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"[2025-04-22T13:27:44.900Z] GET /api/v1/tasks?pageNumber=1&pageSize=10"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-04-22T13:27:48.066Z] PUT /api/v1/tasks/68079070fb5db2f38017bd2f"}
+{"level":"info","message":"[2025-04-22T13:27:50.967Z] GET /api/v1/tasks?pageNumber=1&pageSize=10"}
+{"level":"info","message":"Tasks retrieved from cache"}
+{"level":"info","message":"[2025-04-22T13:27:54.421Z] GET /api/v1/tasks?pageNumber=1&pageSize=10"}
+{"level":"info","message":"Tasks retrieved from cache"}
+{"level":"info","message":"[2025-04-22T13:27:57.860Z] PUT /api/v1/tasks/68079070fb5db2f38017bd2f"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"[2025-04-22T13:28:16.098Z] GET /api/v1/tasks?pageNumber=1&pageSize=10"}
+{"level":"info","message":"Tasks retrieved from cache"}
+{"level":"info","message":"[2025-04-22T13:28:18.850Z] PUT /api/v1/tasks/68079070fb5db2f38017bd2f"}
+{"level":"info","message":"Tasks cache invalidated due to task update"}
+{"level":"info","message":"[2025-04-22T13:28:21.327Z] GET /api/v1/tasks?pageNumber=1&pageSize=10"}
+{"level":"info","message":"Tasks retrieved from cache"}
+{"level":"info","message":"[2025-04-22T13:28:34.525Z] GET /api/v1/tasks?pageNumber=1&pageSize=10"}
+{"level":"info","message":"Tasks retrieved from cache"}
+{"level":"info","message":"[2025-04-22T13:28:43.337Z] PUT /api/v1/tasks/68079070fb5db2f38017bd2f"}
+{"level":"info","message":"Tasks cache invalidated due to task update"}
+{"level":"info","message":"[2025-04-22T13:28:51.150Z] GET /api/v1/tasks?pageNumber=1&pageSize=10"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-04-22T13:29:00.349Z] PUT /api/v1/tasks/68079070fb5db2f38017bd2f"}
+{"level":"info","message":"Tasks cache invalidated due to task update"}
+{"level":"info","message":"[2025-04-22T13:29:03.720Z] GET /api/v1/tasks?pageNumber=1&pageSize=10"}
+{"level":"info","message":"Tasks retrieved from cache"}
+{"level":"info","message":"[2025-04-22T13:29:15.039Z] PUT /api/v1/tasks/68079070fb5db2f38017bd2f"}
+{"level":"info","message":"Tasks cache invalidated due to task update"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"[2025-04-22T13:30:04.798Z] GET /api/v1/tasks?pageNumber=1&pageSize=10"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-04-22T13:30:09.042Z] PUT /api/v1/tasks/68079070fb5db2f38017bd2f"}
+{"level":"info","message":"Tasks cache invalidated due to task update"}
+{"level":"info","message":"[2025-04-22T13:30:15.907Z] GET /api/v1/tasks?pageNumber=1&pageSize=10"}
+{"level":"info","message":"Tasks retrieved from cache"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"[2025-04-22T13:33:03.842Z] GET /api/v1/tasks?pageNumber=1&pageSize=10"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-04-22T13:33:16.142Z] PUT /api/v1/tasks/68079070fb5db2f38017bd2f"}
+{"level":"info","message":"Tasks cache invalidated due to task update"}
+{"level":"info","message":"[2025-04-22T13:33:18.915Z] GET /api/v1/tasks?pageNumber=1&pageSize=10"}
+{"level":"info","message":"Tasks retrieved from cache"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"[2025-04-22T13:33:31.686Z] GET /api/v1/tasks?pageNumber=1&pageSize=10"}
+{"level":"info","message":"Tasks retrieved from cache"}
+{"level":"info","message":"[2025-04-22T13:33:37.159Z] PUT /api/v1/tasks/68079070fb5db2f38017bd2f"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"[2025-04-22T13:34:37.983Z] GET /api/v1/tasks?pageNumber=1&pageSize=10"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-04-22T13:34:42.649Z] PUT /api/v1/tasks/68079070fb5db2f38017bd2f"}
+{"level":"info","message":"Tasks cache invalidated due to task update"}
+{"level":"info","message":"[2025-04-22T13:34:45.909Z] GET /api/v1/tasks?pageNumber=1&pageSize=10"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-04-22T13:35:00.831Z] PUT /api/v1/tasks/68079070fb5db2f38017bd2f"}
+{"level":"info","message":"Tasks cache invalidated due to task update"}
+{"level":"info","message":"[2025-04-22T13:35:07.252Z] GET /api/v1/tasks?pageNumber=1&pageSize=10"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}

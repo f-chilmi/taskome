@@ -1,11 +1,12 @@
 import express, { NextFunction, Request, Response } from "express";
 import routes from "./routes";
 import cors from "cors";
-import { connectDB, corsConfig, nodeEnv } from "./config";
+import { corsConfig, nodeEnv } from "./config";
 import { INTERNAL_SERVER_ERROR, logger, SERVER } from "./utils";
 import compression from "compression";
 import morgan from "morgan";
 import helmet from "helmet";
+import { connectDB, redisClient } from "./database";
 
 const app = express();
 const morganLogger =
@@ -17,6 +18,7 @@ const morganLogger =
       });
 
 connectDB();
+redisClient.connect();
 
 app.set("trust proxy", 1);
 app.use(morganLogger);

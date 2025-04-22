@@ -1,9 +1,10 @@
 import asyncHandler from "express-async-handler";
-import { PaginationService, taskService } from "../services";
+import { PaginationService, redisService, taskService } from "../services";
 import {
   BAD_REQUEST,
   CREATED,
   createTaskSchema,
+  logger,
   NOT_FOUND,
   OK,
   updateTaskSchema,
@@ -11,6 +12,9 @@ import {
 import { Types } from "mongoose";
 import { IPaginationQuery } from "../types";
 import { isValid } from "date-fns";
+
+const TASKS_CACHE_KEY = "tasks";
+const CACHE_EXPIRY_SECONDS = 60;
 
 export const createTask = asyncHandler(async (req, res) => {
   const createTaskPayload = createTaskSchema.parse(req.body);
@@ -23,6 +27,10 @@ export const createTask = asyncHandler(async (req, res) => {
       createTaskPayload.assignedTo ?? req.user?.id // default assignee is myself
     ),
   });
+
+  // Invalidate the cache
+  await redisService.deleteByPrefix(TASKS_CACHE_KEY); // Delete all tasks cache
+  logger.info("Tasks cache invalidated due to task creation");
 
   res.status(CREATED).json({
     message: "Task created successfully",
@@ -40,6 +48,21 @@ export const getTasks = asyncHandler(async (req, res) => {
     status?: string;
     dueDate?: string;
   };
+
+  const cacheKey = `${TASKS_CACHE_KEY}:${JSON.stringify(req.query)}`;
+  console.log(cacheKey);
+
+  // 1. Check if the result is in the cache
+  const cachedTasks = await redisService.get<any>(cacheKey);
+  if (cachedTasks) {
+    logger.info("Tasks retrieved from cache");
+    res.status(OK).json({
+      message: "Task list (cached)",
+      data: cachedTasks.data,
+      pagination: cachedTasks.pagination,
+    });
+    return;
+  }
 
   const query: any = {};
   if (status) {
@@ -76,16 +99,27 @@ export const getTasks = asyncHandler(async (req, res) => {
     pageSize,
   });
 
+  // 2. If not in cache, fetch from the database
   const [tasks, totalCount] = await Promise.all([
     taskService.findAll(query, skip, take),
     taskService.countAll(query),
   ]);
 
-  res.status(OK).json({
+  const response = {
     message: "Task list",
     data: tasks,
     totalCount,
-  });
+  };
+
+  // 3. Store the result in the cache
+  await redisService.set(
+    cacheKey,
+    JSON.stringify(response),
+    CACHE_EXPIRY_SECONDS
+  );
+  logger.info("Tasks retrieved from database and stored in cache");
+
+  res.status(OK).json(response);
 });
 
 export const getTask = asyncHandler(async (req, res) => {
@@ -121,7 +155,9 @@ export const updateTask = asyncHandler(async (req, res) => {
       message: "Something went wrong",
     });
   }
-
+  // Invalidate the cache
+  await redisService.deleteByPrefix(TASKS_CACHE_KEY); // Delete all tasks cache
+  logger.info("Tasks cache invalidated due to task update");
   res.status(OK).json({
     message: "Task updated successfully",
   });
@@ -140,6 +176,9 @@ export const deleteTask = asyncHandler(async (req, res) => {
     });
   }
 
+  // Invalidate the cache
+  await redisService.deleteByPrefix(TASKS_CACHE_KEY); // Delete all tasks cache
+  logger.info("Tasks cache invalidated due to task deletion");
   res.status(OK).json({
     message: "Task deleted",
   });

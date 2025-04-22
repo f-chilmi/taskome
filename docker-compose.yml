@@ -1,0 +1,49 @@
+version: "3.8"
+services:
+  app:
+    build: .
+    ports:
+      - "8080:8080"
+    environment:
+      NODE_ENV: ${NODE_ENV}
+      PORT: ${PORT}
+      REDIS_HOST: ${REDIS_HOST}
+      REDIS_PORT: ${REDIS_PORT}
+      REDIS_URL: ${REDIS_URL}
+      MONGO_PASSWORD: ${MONGO_PASSWORD}
+      MONGO_USER: ${MONGO_USER}
+      MONGO_URI: ${MONGO_URI}
+      BCRYPT_SALT_ROUNDS: ${BCRYPT_SALT_ROUNDS}
+      ACCESS_TOKEN_SECRET: ${ACCESS_TOKEN_SECRET}
+      REFRESH_TOKEN_SECRET: ${REFRESH_TOKEN_SECRET}
+      ACCESS_TOKEN_EXPIRY: ${ACCESS_TOKEN_EXPIRY}
+      REFRESH_TOKEN_EXPIRY: ${REFRESH_TOKEN_EXPIRY}
+    depends_on:
+      - redis
+      - mongo
+    networks:
+      - taskome
+
+  redis:
+    image: redis:latest
+    ports:
+      - "6379:6379"
+    networks:
+      - taskome
+
+  mongo:
+    image: mongo:latest
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+    networks:
+      - taskome
+
+networks:
+  taskome:
+    driver: bridge
+
+volumes:
+  mongo_data:
+    driver: local

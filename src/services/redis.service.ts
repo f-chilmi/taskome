@@ -33,6 +33,7 @@ export class RedisService {
   }
 
   async delete(key: string) {
+    console.log(36, key);
     try {
       await redisClient.del(key);
     } catch {
@@ -51,6 +52,28 @@ export class RedisService {
     } catch {
       throw new ApiError(
         "Failed to check if value exists in Redis",
+        INTERNAL_SERVER_ERROR
+      );
+    }
+  }
+
+  async deleteByPrefix(prefix: string): Promise<number> {
+    try {
+      let deletedCount = 0;
+      const matchPattern = `${prefix}:*`;
+
+      for await (const key of redisClient.scanIterator({
+        MATCH: matchPattern,
+      })) {
+        await redisClient.del(key);
+        deletedCount++;
+      }
+
+      return deletedCount;
+    } catch (error) {
+      console.error("Error deleting by prefix:", error);
+      throw new ApiError(
+        "Failed to delete values by prefix from Redis",
         INTERNAL_SERVER_ERROR
       );
     }

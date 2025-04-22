@@ -9,7 +9,7 @@ export class UserService {
   }
 
   async findUserById(id: string) {
-    return this.userDataSource.findOne({ id });
+    return this.userDataSource.findById(id);
   }
 
   async findUserByEmail(email: string) {
