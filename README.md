@@ -133,4 +133,4 @@ note: render free instance will spin down with inactivity, which can delay reque
 
 ## Video walkthrough of the project
 
-👉 [https://www.loom.com/share/a60290c78d3e431ea4bfd53e8fce5ddc?sid=6efae8fc-7a25-4634-be9b-da0b034a8dda/](Loom video)
+👉 https://www.loom.com/share/a60290c78d3e431ea4bfd53e8fce5ddc?sid=6efae8fc-7a25-4634-be9b-da0b034a8dda/
