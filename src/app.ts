@@ -39,8 +39,4 @@ app.get("/", (_, res) => {
 });
 app.use("/api/v1", routes);
 
-app.listen(SERVER.DEFAULT_PORT_NUMBER, () => {
-  logger.info(
-    `Server is running on http://localhost:${SERVER.DEFAULT_PORT_NUMBER}`
-  );
-});
+export default app;

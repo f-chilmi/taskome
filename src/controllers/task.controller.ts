@@ -17,7 +17,9 @@ const TASKS_CACHE_KEY = "tasks";
 const CACHE_EXPIRY_SECONDS = 60;
 
 export const createTask = asyncHandler(async (req, res) => {
+  console.log(20);
   const createTaskPayload = createTaskSchema.parse(req.body);
+  console.log(21);
   const taskInfo = await taskService.createOne({
     ...createTaskPayload,
     dueDate: createTaskPayload.dueDate
@@ -27,6 +29,9 @@ export const createTask = asyncHandler(async (req, res) => {
       createTaskPayload.assignedTo ?? req.user?.id // default assignee is myself
     ),
   });
+
+  console.log("taskinfo", taskInfo);
+  logger.info(taskInfo);
 
   // Invalidate the cache
   await redisService.deleteByPrefix(TASKS_CACHE_KEY); // Delete all tasks cache

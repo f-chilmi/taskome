@@ -429,3 +429,307 @@
 {"level":"info","message":"Server is running on http://localhost:8080"}
 {"level":"info","message":"Server is running on http://localhost:8080"}
 {"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"[2025-04-23T04:51:56.028Z] POST /auth/register"}
+{"level":"info","message":"[2025-04-23T04:51:56.299Z] POST /auth/login"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"[2025-04-23T04:53:13.566Z] POST /api/v1/auth/register"}
+{"level":"info","message":"[2025-04-23T04:53:14.112Z] POST /auth/login"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"[2025-04-23T04:54:15.617Z] POST /api/v1/auth/register"}
+{"level":"info","message":"[2025-04-23T04:54:16.165Z] POST /api/v1/auth/login"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"[2025-04-23T04:55:12.437Z] POST /api/v1/auth/register"}
+{"level":"info","message":"[2025-04-23T04:55:12.978Z] POST /api/v1/auth/login"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"[2025-04-23T04:58:05.366Z] POST /api/v1/auth/register"}
+{"level":"info","message":"[2025-04-23T04:58:05.903Z] POST /api/v1/auth/login"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"[2025-04-23T04:59:45.758Z] POST /api/v1/auth/register"}
+{"level":"info","message":"[2025-04-23T04:59:46.302Z] POST /api/v1/auth/login"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"[2025-04-23T05:05:27.894Z] POST /api/v1/auth/register"}
+{"level":"info","message":"[2025-04-23T05:05:28.465Z] POST /api/v1/auth/login"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"[2025-04-23T05:05:55.936Z] GET /api/v1/tasks"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"[2025-04-23T05:08:24.241Z] GET /api/v1/tasks"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-04-23T05:08:25.629Z] POST /api/v1/tasks"}
+{"level":"info","message":"[2025-04-23T05:08:25.645Z] GET /api/v1/tasks"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Tasks retrieved from cache"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"[2025-04-23T05:08:55.183Z] GET /api/v1/tasks"}
+{"level":"info","message":"Tasks retrieved from cache"}
+{"level":"info","message":"[2025-04-23T05:08:55.889Z] POST /api/v1/tasks"}
+{"level":"info","message":"[2025-04-23T05:08:55.898Z] GET /api/v1/tasks"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Tasks retrieved from cache"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"[2025-04-23T05:09:14.815Z] POST /api/v1/tasks"}
+{"level":"info","message":"[2025-04-23T05:09:14.827Z] GET /api/v1/tasks"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Tasks retrieved from cache"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"[2025-04-23T05:10:01.890Z] GET /api/v1/tasks"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-04-23T05:10:03.038Z] POST /api/v1/tasks"}
+{"level":"info","message":"[2025-04-23T05:10:03.056Z] GET /api/v1/tasks"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Tasks retrieved from cache"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"[2025-04-23T05:11:15.066Z] POST /api/v1/auth/register"}
+{"level":"info","message":"[2025-04-23T05:11:15.626Z] POST /api/v1/auth/login"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"[2025-04-23T05:11:16.696Z] GET /api/v1/tasks"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-04-23T05:11:17.500Z] POST /api/v1/tasks"}
+{"level":"info","message":"[2025-04-23T05:11:17.517Z] GET /api/v1/tasks"}
+{"level":"info","message":"Tasks retrieved from cache"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"[2025-04-23T05:12:09.878Z] POST /api/v1/auth/register"}
+{"level":"info","message":"[2025-04-23T05:12:10.446Z] POST /api/v1/auth/login"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"[2025-04-23T05:12:11.470Z] GET /api/v1/tasks"}
+{"level":"info","message":"Tasks retrieved from cache"}
+{"level":"info","message":"[2025-04-23T05:12:12.023Z] POST /api/v1/tasks"}
+{"level":"info","message":"[2025-04-23T05:12:12.038Z] GET /api/v1/tasks"}
+{"level":"info","message":"Tasks retrieved from cache"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"[2025-04-23T05:15:18.676Z] POST /api/v1/tasks"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"[2025-04-23T05:16:15.320Z] POST /api/v1/tasks"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"[2025-04-23T05:16:37.175Z] POST /api/v1/tasks"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"[2025-04-23T05:17:34.133Z] POST /api/v1/tasks"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"[2025-04-23T05:18:37.443Z] POST /api/v1/tasks/"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"[2025-04-23T05:19:53.533Z] POST /api/v1/auth/login"}
+{"level":"error","message":"Login failed: Invalid email or password","stack":"Error: Invalid email or password\n    at AuthService.login (/Users/chil/Documents/Github/learn/taskome/src/services/auth.service.ts:50:23)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at /Users/chil/Documents/Github/learn/taskome/src/controllers/auth.controller.ts:21:22","status":401}
+{"level":"info","message":"[2025-04-23T05:19:56.619Z] POST /api/v1/auth/login"}
+{"level":"error","message":"Login failed: Invalid email or password","stack":"Error: Invalid email or password\n    at AuthService.login (/Users/chil/Documents/Github/learn/taskome/src/services/auth.service.ts:50:23)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at /Users/chil/Documents/Github/learn/taskome/src/controllers/auth.controller.ts:21:22","status":401}
+{"level":"info","message":"[2025-04-23T05:20:03.758Z] POST /api/v1/auth/login"}
+{"level":"error","message":"Login failed: Invalid email or password","stack":"Error: Invalid email or password\n    at AuthService.login (/Users/chil/Documents/Github/learn/taskome/src/services/auth.service.ts:50:23)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at /Users/chil/Documents/Github/learn/taskome/src/controllers/auth.controller.ts:21:22","status":401}
+{"level":"info","message":"[2025-04-23T05:20:10.401Z] POST /api/v1/auth/register"}
+{"level":"info","message":"[2025-04-23T05:20:16.704Z] POST /api/v1/auth/login"}
+{"level":"error","message":"Login failed: Invalid email or password","stack":"Error: Invalid email or password\n    at AuthService.login (/Users/chil/Documents/Github/learn/taskome/src/services/auth.service.ts:50:23)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at /Users/chil/Documents/Github/learn/taskome/src/controllers/auth.controller.ts:21:22","status":401}
+{"level":"info","message":"[2025-04-23T05:20:29.024Z] POST /api/v1/auth/login"}
+{"level":"error","message":"Login failed: Invalid email or password","stack":"Error: Invalid email or password\n    at AuthService.login (/Users/chil/Documents/Github/learn/taskome/src/services/auth.service.ts:50:23)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at /Users/chil/Documents/Github/learn/taskome/src/controllers/auth.controller.ts:21:22","status":401}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹"}
+{"level":"info","message":"[2025-04-23T05:21:57.844Z] POST /api/v1/auth/login"}
+{"level":"error","message":"Login failed: Invalid email or password","stack":"Error: Invalid email or password\n    at AuthService.login (/Users/chil/Documents/Github/learn/taskome/src/services/auth.service.ts:50:23)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at /Users/chil/Documents/Github/learn/taskome/src/controllers/auth.controller.ts:21:22","status":401}
+{"level":"info","message":"[2025-04-23T05:22:02.067Z] POST /api/v1/auth/register"}
+{"level":"info","message":"[2025-04-23T05:22:18.940Z] POST /api/v1/auth/register"}
+{"level":"info","message":"[2025-04-23T05:22:25.563Z] POST /api/v1/auth/register"}
+{"level":"info","message":"[2025-04-23T05:22:34.356Z] POST /api/v1/auth/login"}
+{"level":"error","message":"Login failed: Invalid email or password","stack":"Error: Invalid email or password\n    at AuthService.login (/Users/chil/Documents/Github/learn/taskome/src/services/auth.service.ts:50:23)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at /Users/chil/Documents/Github/learn/taskome/src/controllers/auth.controller.ts:21:22","status":401}
+{"level":"info","message":"[2025-04-23T05:23:23.816Z] GET /"}
+{"level":"info","message":"[2025-04-23T05:23:24.666Z] GET /favicon.ico"}
+{"level":"info","message":"[2025-04-23T05:23:31.586Z] GET /api/v1/tasks"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-04-23T05:26:13.396Z] POST /api/v1/auth/login"}
+{"level":"error","message":"Login failed: Invalid email or password","stack":"Error: Invalid email or password\n    at AuthService.login (/Users/chil/Documents/Github/learn/taskome/src/services/auth.service.ts:50:23)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at /Users/chil/Documents/Github/learn/taskome/src/controllers/auth.controller.ts:21:22","status":401}
+{"level":"info","message":"[2025-04-23T05:26:16.747Z] POST /api/v1/auth/register"}
+{"level":"info","message":"[2025-04-23T05:26:34.091Z] POST /api/v1/auth/register"}
+{"level":"info","message":"[2025-04-23T05:26:41.924Z] POST /api/v1/auth/login"}
+{"level":"error","message":"Login failed: Invalid email or password","stack":"Error: Invalid email or password\n    at AuthService.login (/Users/chil/Documents/Github/learn/taskome/src/services/auth.service.ts:50:23)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at /Users/chil/Documents/Github/learn/taskome/src/controllers/auth.controller.ts:21:22","status":401}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"[2025-04-23T05:29:19.515Z] POST /api/v1/tasks/"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"[2025-04-23T05:29:22.726Z] POST /api/v1/tasks/"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"[2025-04-23T05:29:23.662Z] POST /api/v1/tasks/"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"[2025-04-23T05:30:26.933Z] POST /api/v1/tasks/"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"[2025-04-23T05:30:28.779Z] POST /api/v1/tasks/"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"[2025-04-23T05:30:30.985Z] POST /api/v1/tasks/"}
+{"level":"info","message":{"_id":"68087af61a07de337b265642","assignedTo":"68087a51a4a2e2857f5f180c","status":"notStarted","title":"New Task"}}
+{"level":"info","message":"Tasks cache invalidated due to task creation"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"[2025-04-23T05:33:33.122Z] POST /api/v1/tasks/"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-04-23T05:33:35.310Z] POST /api/v1/tasks/"}
+{"level":"info","message":"[2025-04-23T05:33:37.093Z] POST /api/v1/tasks/"}
+{"level":"info","message":{"_id":"68087bb19fed29c8761b6f55","assignedTo":"68087a51a4a2e2857f5f180c","status":"notStarted","title":"New Task"}}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Tasks cache invalidated due to task creation"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"[2025-04-23T05:35:14.513Z] POST /api/v1/tasks/"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-04-23T05:35:15.965Z] POST /api/v1/tasks/"}
+{"level":"info","message":{"_id":"68087c132f12be17a2db1f6f","assignedTo":"68087a51a4a2e2857f5f180c","status":"notStarted","title":"New Task"}}
+{"level":"info","message":"Tasks cache invalidated due to task creation"}
+{"level":"info","message":"[2025-04-23T05:35:59.495Z] POST /api/v1/tasks/"}
+{"level":"info","message":{"_id":"68087c3f108c93ab463cb567","assignedTo":"68087a51a4a2e2857f5f180c","status":"notStarted","title":"New Task"}}
+{"level":"info","message":"Tasks cache invalidated due to task creation"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-04-23T05:36:26.948Z] POST /api/v1/tasks/"}
+{"level":"info","message":{"_id":"68087c5a09660410dc064398","assignedTo":"68087a51a4a2e2857f5f180c","status":"notStarted","title":"New Task"}}
+{"level":"info","message":"Tasks cache invalidated due to task creation"}
+{"level":"info","message":"[2025-04-23T05:36:27.688Z] GET /api/v1/tasks"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-04-23T05:36:52.026Z] POST /api/v1/tasks/"}
+{"level":"info","message":{"_id":"68087c74fe3d33e1dee23f6c","assignedTo":"68087a51a4a2e2857f5f180c","status":"notStarted","title":"New Task"}}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Tasks cache invalidated due to task creation"}
+{"level":"info","message":"[2025-04-23T05:36:53.093Z] GET /api/v1/tasks"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-04-23T05:37:42.856Z] POST /api/v1/tasks/"}
+{"level":"info","message":{"_id":"68087ca6941533ad28d1f8e2","assignedTo":"68087a51a4a2e2857f5f180c","status":"notStarted","title":"New Task"}}
+{"level":"info","message":"Tasks cache invalidated due to task creation"}
+{"level":"info","message":"[2025-04-23T05:37:43.738Z] GET /api/v1/tasks"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-04-23T05:58:37.365Z] POST /api/v1/tasks/"}
+{"level":"info","message":"[2025-04-23T05:58:37.382Z] GET /api/v1/tasks"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-04-23T05:58:50.308Z] POST /api/v1/tasks/"}
+{"level":"info","message":{"_id":"6808819ae9dcd1a341de81ba","assignedTo":"68087a51a4a2e2857f5f180c","status":"notStarted","title":"New Task"}}
+{"level":"info","message":"Tasks cache invalidated due to task creation"}
+{"level":"info","message":"[2025-04-23T05:58:51.153Z] GET /api/v1/tasks"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-04-23T06:25:54.662Z] POST /api/v1/auth/login"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-04-23T06:26:58.219Z] POST /api/v1/tasks/"}
+{"level":"info","message":{"_id":"68088832f37e6bb2fe0108ca","assignedTo":"68087a51a4a2e2857f5f180c","status":"notStarted","title":"New Task"}}
+{"level":"info","message":"Tasks cache invalidated due to task creation"}
+{"level":"info","message":"[2025-04-23T06:26:58.726Z] GET /api/v1/tasks"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-04-23T06:26:59.316Z] DELETE /api/v1/tasks/123"}
+{"level":"info","message":"[2025-04-23T06:27:41.134Z] POST /api/v1/tasks/"}
+{"level":"info","message":{"_id":"6808885d2f40681f1001d1e9","assignedTo":"68087a51a4a2e2857f5f180c","status":"notStarted","title":"New Task"}}
+{"level":"info","message":"Tasks cache invalidated due to task creation"}
+{"level":"info","message":"[2025-04-23T06:27:42.080Z] GET /api/v1/tasks"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-04-23T06:27:42.592Z] DELETE /api/v1/tasks/123"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-04-23T06:30:15.691Z] POST /api/v1/tasks/"}
+{"level":"info","message":{"_id":"680888f7c56b1d5a31234fea","assignedTo":"68087a51a4a2e2857f5f180c","status":"notStarted","title":"New Task"}}
+{"level":"info","message":"Tasks cache invalidated due to task creation"}
+{"level":"info","message":"[2025-04-23T06:30:16.436Z] GET /api/v1/tasks"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-04-23T06:30:17.006Z] DELETE /api/v1/tasks/123"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-04-23T06:32:03.020Z] POST /api/v1/tasks/"}
+{"level":"info","message":"[2025-04-23T06:32:03.020Z] POST /api/v1/auth/register"}
+{"level":"info","message":{"_id":"6808896341798d6a07ace262","assignedTo":"68087a51a4a2e2857f5f180c","status":"notStarted","title":"New Task"}}
+{"level":"info","message":"[2025-04-23T06:32:03.569Z] POST /api/v1/auth/login"}
+{"level":"info","message":"Tasks cache invalidated due to task creation"}
+{"level":"info","message":"[2025-04-23T06:32:03.828Z] GET /api/v1/tasks"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-04-23T06:32:04.325Z] DELETE /api/v1/tasks/123"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-04-23T06:33:49.986Z] POST /api/v1/tasks/"}
+{"level":"info","message":{"_id":"680889cec623bb6a8927d0e2","assignedTo":"68087a51a4a2e2857f5f180c","status":"notStarted","title":"New Task"}}
+{"level":"info","message":"Tasks cache invalidated due to task creation"}
+{"level":"info","message":"[2025-04-23T06:33:50.842Z] GET /api/v1/tasks"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-04-23T06:33:51.413Z] DELETE /api/v1/tasks/123"}
+{"level":"info","message":"[2025-04-23T06:33:51.434Z] DELETE /api/v1/tasks/999"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-04-23T06:34:45.424Z] POST /api/v1/tasks/"}
+{"level":"info","message":{"_id":"68088a05161594b8f688ffe4","assignedTo":"68087a51a4a2e2857f5f180c","status":"notStarted","title":"New Task"}}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Tasks cache invalidated due to task creation"}
+{"level":"info","message":"[2025-04-23T06:34:46.662Z] GET /api/v1/tasks"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-04-23T06:34:47.186Z] DELETE /api/v1/tasks/123"}
+{"level":"info","message":"[2025-04-23T06:34:47.206Z] DELETE /api/v1/tasks/123"}
+{"level":"info","message":"[2025-04-23T06:34:47.217Z] DELETE /api/v1/tasks/999"}
+{"level":"info","message":"[2025-04-23T06:35:24.270Z] POST /api/v1/tasks/"}
+{"level":"info","message":{"_id":"68088a2c3ad23b24864168ce","assignedTo":"68087a51a4a2e2857f5f180c","status":"notStarted","title":"New Task"}}
+{"level":"info","message":"Tasks cache invalidated due to task creation"}
+{"level":"info","message":"[2025-04-23T06:35:25.461Z] GET /api/v1/tasks"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-04-23T06:35:25.961Z] DELETE /api/v1/tasks/123"}
+{"level":"info","message":"[2025-04-23T06:35:25.972Z] DELETE /api/v1/tasks/123"}
+{"level":"info","message":"[2025-04-23T06:35:25.975Z] DELETE /api/v1/tasks/999"}
+{"level":"info","message":"[2025-04-23T06:47:47.319Z] POST /api/v1/tasks/"}
+{"level":"info","message":"[2025-04-23T06:47:47.387Z] GET /api/v1/tasks"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-04-23T06:47:48.444Z] DELETE /api/v1/tasks/123"}
+{"level":"info","message":"[2025-04-23T06:47:48.448Z] PUT /api/v1/tasks/123"}
+{"level":"info","message":"[2025-04-23T06:47:48.451Z] GET /api/v1/tasks/123"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-04-23T06:49:58.447Z] POST /api/v1/tasks/"}
+{"level":"info","message":"[2025-04-23T06:49:58.516Z] GET /api/v1/tasks"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-04-23T06:49:59.385Z] DELETE /api/v1/tasks/123"}
+{"level":"info","message":"[2025-04-23T06:49:59.394Z] PUT /api/v1/tasks/123"}
+{"level":"info","message":"[2025-04-23T06:49:59.401Z] GET /api/v1/tasks/123"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
