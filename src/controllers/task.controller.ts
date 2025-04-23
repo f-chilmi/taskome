@@ -54,7 +54,7 @@ export const getTasks = asyncHandler(async (req, res) => {
     dueDate?: string;
   };
 
-  const cacheKey = `${TASKS_CACHE_KEY}:${JSON.stringify(req.query)}`;
+  const cacheKey = `${TASKS_CACHE_KEY}:${JSON.stringify(req.query)}`; // tasks:{status:notStarted,pageNumber:1,pageSize:10}
   console.log(cacheKey);
 
   // 1. Check if the result is in the cache
@@ -75,6 +75,7 @@ export const getTasks = asyncHandler(async (req, res) => {
   }
   if (dueDate) {
     const parsedDate = new Date(dueDate);
+    // dueDate = "2023-04-04"
 
     if (isValid(parsedDate)) {
       const [year, month, date] = [
@@ -87,8 +88,8 @@ export const getTasks = asyncHandler(async (req, res) => {
       const end = new Date(Date.UTC(year, month, date, 23, 59, 59, 999));
 
       query.dueDate = {
-        $gte: start,
-        $lte: end,
+        $gte: start, //2023-04-04T00:00:00Z
+        $lte: end, //2023-04-04T23:59:59Z
       };
     } else {
       res.status(BAD_REQUEST).json({

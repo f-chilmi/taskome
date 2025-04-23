@@ -121,8 +121,16 @@ This will run all the unit and integration tests using Jest and Chai.
 
 👉 [https://taskome.onrender.com/](https://taskome.onrender.com/)
 
+```
+note: render free instance will spin down with inactivity, which can delay requests by 50 seconds or more.
+```
+
 ## Postman Collection
 
 - You can use the included Postman collection to test the API endpoints easily.
 - File: [`Taskome.postman_collection.json`](./docs/Taskome.postman_collection.json)
 - Import it into Postman and set the environment variables like `{{url}}`, `{{token}}`, etc., if needed.
+
+## Video walkthrough of the project
+
+👉 [https://www.loom.com/share/a60290c78d3e431ea4bfd53e8fce5ddc?sid=6efae8fc-7a25-4634-be9b-da0b034a8dda/](Loom video)
