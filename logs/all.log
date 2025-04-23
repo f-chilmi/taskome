@@ -733,3 +733,5 @@
 {"level":"info","message":"[2025-04-23T06:49:59.394Z] PUT /api/v1/tasks/123"}
 {"level":"info","message":"[2025-04-23T06:49:59.401Z] GET /api/v1/tasks/123"}
 {"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
