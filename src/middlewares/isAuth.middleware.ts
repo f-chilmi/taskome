@@ -19,7 +19,7 @@ export const isAuth = asyncHandler(
 
     const decoded = JwtService.verify(token, "access");
 
-    req.user = { id: decoded.id as string };
+    req.user = { id: decoded.id as string, token };
     next();
   }
 );

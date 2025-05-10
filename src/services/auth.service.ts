@@ -52,7 +52,7 @@ export class AuthService {
       const user = await userService.createOne(userCredentials);
       const tokens = await this.generateAndStoreTokens(user.id);
 
-      return { data: user, tokens };
+      return { data: user, tokens: tokens.accessToken };
     } catch (error) {
       logger.error("Registration failed:", error);
       throw error;

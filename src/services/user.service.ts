@@ -15,6 +15,9 @@ export class UserService {
   async findUserByEmail(email: string) {
     return await this.userDataSource.findOne({ email });
   }
+  async findAll(query?: any, skip: number = 0, limit: number = 1000) {
+    return this.userDataSource.find(query).skip(skip).limit(limit).exec();
+  }
 }
 
 export const userService = new UserService();

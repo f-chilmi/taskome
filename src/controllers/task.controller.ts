@@ -10,16 +10,15 @@ import {
   updateTaskSchema,
 } from "../utils";
 import { Types } from "mongoose";
-import { IPaginationQuery } from "../types";
+import { IPaginationQuery, ITask } from "../types";
 import { isValid } from "date-fns";
 
 const TASKS_CACHE_KEY = "tasks";
 const CACHE_EXPIRY_SECONDS = 60;
 
 export const createTask = asyncHandler(async (req, res) => {
-  console.log(20);
   const createTaskPayload = createTaskSchema.parse(req.body);
-  console.log(21);
+
   const taskInfo = await taskService.createOne({
     ...createTaskPayload,
     dueDate: createTaskPayload.dueDate
@@ -30,7 +29,6 @@ export const createTask = asyncHandler(async (req, res) => {
     ),
   });
 
-  console.log("taskinfo", taskInfo);
   logger.info(taskInfo);
 
   // Invalidate the cache
@@ -49,9 +47,15 @@ export const getTasks = asyncHandler(async (req, res) => {
     pageSize = 10,
     status,
     dueDate,
+    projectId,
+    sortBy = "priority",
+    sortOrder = "asc",
   } = req.query as unknown as IPaginationQuery & {
     status?: string;
     dueDate?: string;
+    projectId?: string;
+    sortBy?: keyof ITask;
+    sortOrder?: "asc" | "desc";
   };
 
   const cacheKey = `${TASKS_CACHE_KEY}:${JSON.stringify(req.query)}`; // tasks:{status:notStarted,pageNumber:1,pageSize:10}
@@ -73,6 +77,10 @@ export const getTasks = asyncHandler(async (req, res) => {
   if (status) {
     query.status = status;
   }
+  if (projectId) {
+    query.projectId = status;
+  }
+
   if (dueDate) {
     const parsedDate = new Date(dueDate);
     // dueDate = "2023-04-04"
@@ -107,7 +115,13 @@ export const getTasks = asyncHandler(async (req, res) => {
 
   // 2. If not in cache, fetch from the database
   const [tasks, totalCount] = await Promise.all([
-    taskService.findAll(query, skip, take),
+    taskService.aggregateAll(
+      query,
+      parseInt(skip),
+      parseInt(take),
+      sortBy,
+      sortOrder
+    ),
     taskService.countAll(query),
   ]);
 
