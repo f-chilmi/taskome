@@ -4,6 +4,8 @@ import { isAuth } from "../middlewares";
 
 const router = Router();
 
+router.get("/stats", task.getStats);
+
 router.post("/", isAuth, task.createTask);
 router.get("/", task.getTasks);
 router.get("/:id", task.getTask);

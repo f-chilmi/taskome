@@ -10,7 +10,7 @@ import {
   updateTaskSchema,
 } from "../utils";
 import { Types } from "mongoose";
-import { IPaginationQuery, ITask } from "../types";
+import { IPaginationQuery, ITask, StatusEnum } from "../types";
 import { isValid } from "date-fns";
 
 const TASKS_CACHE_KEY = "tasks";
@@ -48,7 +48,7 @@ export const getTasks = asyncHandler(async (req, res) => {
     status,
     dueDate,
     projectId,
-    sortBy = "priority",
+    sortBy = "createdAt",
     sortOrder = "asc",
   } = req.query as unknown as IPaginationQuery & {
     status?: string;
@@ -140,6 +140,40 @@ export const getTasks = asyncHandler(async (req, res) => {
   logger.info("Tasks retrieved from database and stored in cache");
 
   res.status(OK).json(response);
+});
+
+export const getStats = asyncHandler(async (req, res) => {
+  const parsedDate = new Date();
+  const [year, month, date] = [
+    parsedDate.getFullYear(),
+    parsedDate.getMonth(),
+    parsedDate.getDate(),
+  ];
+
+  const start = new Date(Date.UTC(year, month, date, 0, 0, 0, 0));
+  const end = new Date(Date.UTC(year, month, date, 23, 59, 59, 999));
+
+  const [countTotal, countCompleted, countDueToday, countOverdue] =
+    await Promise.all([
+      await taskService.countAll({}),
+      await taskService.countAll({ status: StatusEnum.DONE }),
+      await taskService.countAll({
+        dueDate: {
+          $gte: start,
+          $lte: end,
+        },
+      }),
+      await taskService.countAll({
+        dueDate: {
+          $lte: start,
+        },
+      }),
+    ]);
+
+  res.status(OK).json({
+    message: "Task statistic",
+    data: { countTotal, countCompleted, countDueToday, countOverdue },
+  });
 });
 
 export const getTask = asyncHandler(async (req, res) => {

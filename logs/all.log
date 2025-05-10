@@ -1939,3 +1939,538 @@
 {"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
 {"level":"info","message":"Server is running on http://localhost:8080"}
 {"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-10T05:29:56.066Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-10T05:30:01.023Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T05:30:36.198Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from cache"}
+{"level":"info","message":"[2025-05-10T05:30:36.500Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T05:30:37.443Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T05:32:26.543Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T05:32:27.248Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T05:32:27.894Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T05:34:08.302Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T05:35:08.215Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from cache"}
+{"level":"info","message":"[2025-05-10T05:38:05.786Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T05:38:06.799Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T05:38:07.792Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T05:38:40.236Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from cache"}
+{"level":"info","message":"[2025-05-10T05:38:40.851Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from cache"}
+{"level":"info","message":"[2025-05-10T05:38:41.232Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from cache"}
+{"level":"info","message":"[2025-05-10T05:38:41.573Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from cache"}
+{"level":"info","message":"[2025-05-10T05:39:28.182Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T05:39:28.857Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T05:39:29.872Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T05:41:07.348Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-10T05:41:07.474Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T05:41:08.249Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T05:41:08.619Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T05:41:09.381Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T05:41:09.683Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T05:41:58.012Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from cache"}
+{"level":"info","message":"[2025-05-10T05:41:58.313Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from cache"}
+{"level":"info","message":"[2025-05-10T05:41:58.657Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from cache"}
+{"level":"info","message":"[2025-05-10T05:42:02.771Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from cache"}
+{"level":"info","message":"[2025-05-10T05:42:03.945Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from cache"}
+{"level":"info","message":"[2025-05-10T05:42:04.236Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from cache"}
+{"level":"info","message":"[2025-05-10T05:42:04.531Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from cache"}
+{"level":"info","message":"[2025-05-10T05:44:35.723Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T05:44:36.829Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T05:44:37.858Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T05:44:49.770Z] GET /api/v1/tasks?pageNumber=1&pageSize=100"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T05:45:15.271Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from cache"}
+{"level":"info","message":"[2025-05-10T05:45:15.941Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from cache"}
+{"level":"info","message":"[2025-05-10T05:45:16.298Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from cache"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-10T06:03:00.540Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:03:01.198Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:03:01.818Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:04:02.507Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:04:03.132Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:04:04.089Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:04:22.139Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:04:22.483Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:04:22.823Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:06:20.639Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:06:21.273Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:06:22.186Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:07:06.740Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:07:07.063Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:07:07.345Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:09:26.185Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:09:27.022Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:09:28.020Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:09:46.919Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:09:47.345Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:09:47.689Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:10:21.814Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:10:22.153Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:10:22.529Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:10:45.223Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:10:46.017Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:10:46.917Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:11:00.564Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:11:00.856Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:11:01.147Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:11:53.144Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:11:53.781Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:11:54.496Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:12:23.564Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:12:23.933Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:12:24.277Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:12:57.970Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:12:58.643Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:12:59.482Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:16:06.593Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:16:07.381Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:16:08.354Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:17:01.916Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:17:02.235Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:17:02.587Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:17:24.136Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:17:24.858Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:17:25.573Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:17:34.776Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:17:35.094Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:17:35.412Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:18:09.531Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:18:10.000Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:18:10.450Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:18:22.295Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:18:22.635Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:18:22.922Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:18:40.359Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:18:41.323Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:18:42.135Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:20:02.844Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:20:03.836Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:20:04.565Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:20:14.467Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:20:14.863Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:20:15.348Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:20:57.513Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:20:57.824Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:20:58.115Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:22:00.856Z] POST /api/v1/tasks/"}
+{"level":"info","message":{"__v":0,"_id":"681ef088fedb5ace2d5cb054","assignedTo":"68078fb0fb5db2f38017bd21","createdAt":"2025-05-10T06:22:00.882Z","description":"hehehe","dueDate":"2025-05-14T00:00:00.000Z","priority":"Medium","projectId":"681e9d1be8ae4e90ffe67b31","status":"Not Started","title":"test 123","updatedAt":"2025-05-10T06:22:00.882Z"}}
+{"level":"info","message":"Tasks cache invalidated due to task creation"}
+{"level":"info","message":"[2025-05-10T06:22:01.297Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:22:02.200Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:22:02.986Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:22:15.020Z] PUT /api/v1/tasks/681ef088fedb5ace2d5cb054"}
+{"level":"info","message":"Tasks cache invalidated due to task update"}
+{"level":"info","message":"[2025-05-10T06:22:15.943Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:22:16.230Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:22:16.522Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:22:44.972Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:22:45.280Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:22:45.564Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:23:14.650Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:23:15.457Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:23:16.649Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:23:34.579Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:23:34.913Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:23:35.206Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:23:55.363Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:23:55.676Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:23:55.975Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:24:17.975Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:24:18.974Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:24:19.994Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:24:37.741Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:24:38.066Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:24:38.358Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:25:41.452Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-10T06:25:41.606Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:25:42.320Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:25:42.528Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:25:43.264Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:25:43.504Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:26:42.835Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-10T06:26:43.028Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:26:43.618Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:26:44.059Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:26:44.658Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:26:44.853Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-10T06:42:39.279Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:42:39.880Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:42:40.684Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-10T06:46:45.134Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:46:46.075Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:46:47.005Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-10T06:47:00.558Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:47:00.864Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:47:01.172Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:47:17.446Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:47:17.734Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:47:18.046Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:47:33.894Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:47:41.867Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:47:42.160Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:47:42.463Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:47:50.852Z] GET /api/v1/tasks?pageNumber=1&pageSize=100"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-10T06:48:09.772Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:48:10.511Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:48:11.871Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:49:20.661Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:49:21.423Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:49:22.412Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:49:53.150Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:49:54.161Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:49:55.076Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-10T06:50:18.638Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:50:18.964Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:50:19.257Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from cache"}
+{"level":"info","message":"[2025-05-10T06:50:30.501Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:50:31.464Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T06:50:32.397Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-10T06:57:37.953Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-10T06:58:00.678Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-10T06:58:45.640Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-10T06:59:52.967Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-10T07:49:31.666Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-10T07:50:48.686Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T07:50:49.597Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T07:50:50.591Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T07:51:56.959Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T07:51:57.630Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T07:51:58.475Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T07:52:38.208Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from cache"}
+{"level":"info","message":"[2025-05-10T07:52:38.474Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from cache"}
+{"level":"info","message":"[2025-05-10T07:52:38.760Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from cache"}
+{"level":"info","message":"[2025-05-10T07:53:13.579Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T07:53:14.481Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T07:53:15.347Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T07:55:29.765Z] POST /api/v1/tasks/"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"[2025-05-10T07:58:19.232Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Projects retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T07:58:20.807Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T07:58:21.779Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-10T08:12:43.761Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-10T08:14:48.311Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-10T08:15:36.520Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-10T08:15:42.608Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-10T08:15:42.745Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T08:15:43.478Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T08:15:43.664Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T08:15:44.417Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T08:15:44.670Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T08:17:57.394Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T08:17:58.447Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T08:17:59.640Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T08:18:14.925Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from cache"}
+{"level":"info","message":"[2025-05-10T08:18:15.227Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from cache"}
+{"level":"info","message":"[2025-05-10T08:18:15.520Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from cache"}
+{"level":"info","message":"[2025-05-10T08:18:28.276Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from cache"}
+{"level":"info","message":"[2025-05-10T08:18:28.573Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from cache"}
+{"level":"info","message":"[2025-05-10T08:18:28.925Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from cache"}
+{"level":"info","message":"[2025-05-10T08:18:37.182Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from cache"}
+{"level":"info","message":"[2025-05-10T08:18:37.473Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from cache"}
+{"level":"info","message":"[2025-05-10T08:18:37.779Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from cache"}
+{"level":"info","message":"[2025-05-10T08:19:39.026Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T08:19:40.469Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T08:19:41.114Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T08:20:00.223Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from cache"}
+{"level":"info","message":"[2025-05-10T08:20:00.517Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from cache"}
+{"level":"info","message":"[2025-05-10T08:20:00.863Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from cache"}
+{"level":"info","message":"[2025-05-10T08:20:08.599Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from cache"}
+{"level":"info","message":"[2025-05-10T08:20:08.893Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from cache"}
+{"level":"info","message":"[2025-05-10T08:20:09.194Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from cache"}
+{"level":"info","message":"[2025-05-10T08:20:33.982Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from cache"}
+{"level":"info","message":"[2025-05-10T08:20:34.271Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from cache"}
+{"level":"info","message":"[2025-05-10T08:20:34.556Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from cache"}
+{"level":"info","message":"[2025-05-10T08:21:21.672Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-10T08:21:32.647Z] GET /api/v1/tasks/stats"}

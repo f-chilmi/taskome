@@ -1,6 +1,8 @@
 import asyncHandler from "express-async-handler";
-import { authService } from "../services";
+import { authService, redisService } from "../services";
 import { CREATED, loginSchema, OK, registerSchema } from "../utils";
+
+const USER_CACHE_KEY = "users";
 
 export const localRegister = asyncHandler(async (req, res) => {
   try {
@@ -13,6 +15,7 @@ export const localRegister = asyncHandler(async (req, res) => {
       tokens: userInfo.tokens,
     });
   } catch (error: any) {
+    await redisService.deleteByPrefix(USER_CACHE_KEY);
     res
       .status(error.status || 500)
       .json({ message: error.message || "Internal server error" });

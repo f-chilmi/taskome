@@ -7,7 +7,7 @@ const USER_CACHE_KEY = "users";
 const CACHE_EXPIRY_SECONDS = 60;
 
 export const getUsers = asyncHandler(async (req, res) => {
-  const { pageNumber = 1, pageSize = 10 } =
+  const { pageNumber = 1, pageSize = 1000000 } =
     req.query as unknown as IPaginationQuery & {};
 
   const cacheKey = `${USER_CACHE_KEY}:${JSON.stringify(req.query)}`;

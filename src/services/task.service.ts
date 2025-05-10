@@ -55,7 +55,7 @@ export class TaskService {
     if (sortBy === "priority") {
       sortStage["priorityValue"] = sortOrder === "desc" ? 1 : -1;
     } else {
-      sortStage[sortBy || "createdAt"] = sortOrder === "desc" ? -1 : 1;
+      sortStage[sortBy || "dueDate"] = sortOrder === "desc" ? -1 : 1;
     }
 
     return this.taskDataSource.aggregate([
