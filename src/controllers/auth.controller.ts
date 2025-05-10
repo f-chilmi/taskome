@@ -12,8 +12,8 @@ export const localRegister = asyncHandler(async (req, res) => {
       data: userInfo.data,
       tokens: userInfo.tokens,
     });
-  } catch (error) {
-    return res
+  } catch (error: any) {
+    res
       .status(error.status || 500)
       .json({ message: error.message || "Internal server error" });
   }
@@ -29,10 +29,10 @@ export const localLogin = asyncHandler(async (req, res) => {
       data: userInfo.data,
       tokens: userInfo.tokens,
     });
-  } catch (error) {
+  } catch (error: any) {
     const status = error.status || 500;
     const message = error.message || "Internal server error";
-    return res.status(status).json({ message });
+    res.status(status).json({ message });
   }
 });
 

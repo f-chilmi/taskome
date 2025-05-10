@@ -117,8 +117,8 @@ export const getTasks = asyncHandler(async (req, res) => {
   const [tasks, totalCount] = await Promise.all([
     taskService.aggregateAll(
       query,
-      parseInt(skip),
-      parseInt(take),
+      parseInt(skip.toString()),
+      parseInt(take.toString()),
       sortBy,
       sortOrder
     ),

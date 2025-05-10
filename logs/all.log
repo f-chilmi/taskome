@@ -1929,3 +1929,13 @@
 {"level":"info","message":"Users retrieved from cache"}
 {"level":"info","message":"[2025-05-10T05:11:05.996Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
 {"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-10T05:21:54.067Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from database and stored in cache"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
