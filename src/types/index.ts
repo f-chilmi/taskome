@@ -7,3 +7,5 @@ export * from "./auth";
 export * from "./pagination";
 export * from "./database";
 export * from "./project";
+export * from "./habit";
+export * from "./habitLog";

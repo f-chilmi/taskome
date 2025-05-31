@@ -7,3 +7,5 @@ export * from "./task.service";
 export * from "./project.service";
 export * from "./pagination.service";
 export * from "./redis.service";
+export * from "./habit.service";
+export * from "./habitLog.service";

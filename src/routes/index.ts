@@ -4,6 +4,8 @@ import { authRouter } from "./auth.routes";
 import { taskRouter } from "./task.routes";
 import { projectRouter } from "./project.routes";
 import { userRouter } from "./user.routes";
+import { habitRouter } from "./habit.routes";
+import { habitLogRouter } from "./habitLog.routes";
 
 const router = Router();
 
@@ -21,5 +23,7 @@ router.use("/auth", authRouter);
 router.use("/tasks", taskRouter);
 router.use("/projects", projectRouter);
 router.use("/users", userRouter);
+router.use("/habits", habitRouter);
+router.use("/habit-log", habitLogRouter);
 
 export default router;

@@ -2474,3 +2474,1001 @@
 {"level":"info","message":"Tasks retrieved from cache"}
 {"level":"info","message":"[2025-05-10T08:21:21.672Z] GET /api/v1/tasks/stats"}
 {"level":"info","message":"[2025-05-10T08:21:32.647Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-10T08:22:00.199Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T08:22:02.192Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from cache"}
+{"level":"info","message":"[2025-05-10T08:22:02.505Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T08:22:03.125Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-10T08:22:12.630Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from cache"}
+{"level":"info","message":"[2025-05-10T08:22:13.702Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-10T08:23:17.437Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-15T09:06:27.944Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-15T09:06:36.866Z] POST /api/v1/auth/login"}
+{"level":"info","message":"[2025-05-15T09:06:38.825Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-15T09:06:48.556Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-15T09:06:53.432Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from cache"}
+{"level":"info","message":"[2025-05-15T09:06:53.820Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-15T09:06:55.414Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-15T09:08:57.945Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"[2025-05-19T10:25:44.661Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-19T10:25:51.887Z] POST /api/v1/auth/login"}
+{"level":"info","message":"[2025-05-19T10:25:52.466Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-19T10:25:55.655Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-19T10:25:58.294Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from cache"}
+{"level":"info","message":"[2025-05-19T10:25:58.652Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-19T10:25:59.441Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-24T10:14:19.418Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T10:15:36.799Z] POST /api/v1/auth/login"}
+{"level":"info","message":"[2025-05-24T10:15:37.243Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T10:15:39.960Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-24T10:15:42.210Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from cache"}
+{"level":"info","message":"[2025-05-24T10:15:42.482Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-24T10:15:43.129Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-24T10:16:32.811Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-24T10:20:24.240Z] GET /api/v1/habit?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T10:20:44.956Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T10:23:54.345Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T10:23:54.499Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T10:25:43.956Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T10:25:44.143Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T10:26:12.647Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T10:26:12.843Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T10:26:49.237Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T10:26:49.553Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T10:27:56.403Z] POST /api/v1/auth/login"}
+{"level":"info","message":"[2025-05-24T10:28:37.242Z] POST /api/v1/tasks"}
+{"level":"info","message":"[2025-05-24T10:28:40.333Z] POST /api/v1/habits"}
+{"level":"info","message":{"__v":0,"_id":"68319f582a4ee74b43823505","createdAt":"2025-05-24T10:28:40.336Z","description":"Read book as much as i can","name":"Read a book","repeat":"Daily","updatedAt":"2025-05-24T10:28:40.336Z","userId":"681bf9f0f7bbfef335efe78d"}}
+{"level":"info","message":"Habits cache invalidated due to Habit creation"}
+{"level":"info","message":"[2025-05-24T10:28:44.123Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T10:28:44.295Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"[2025-05-24T10:30:12.660Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-24T10:30:15.022Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T10:31:22.153Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T10:31:22.371Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"[2025-05-24T11:43:14.881Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-24T11:43:16.293Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-24T11:48:44.753Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T11:48:44.988Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T11:52:28.565Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T11:52:28.767Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T12:02:51.110Z] POST /api/v1/habits"}
+{"level":"info","message":{"__v":0,"_id":"6831b56b40068e96ff557372","createdAt":"2025-05-24T12:02:51.149Z","name":"Tahajjud","repeat":"Daily","updatedAt":"2025-05-24T12:02:51.149Z","userId":"681bf9f0f7bbfef335efe78d"}}
+{"level":"info","message":"Habits cache invalidated due to Habit creation"}
+{"level":"info","message":"[2025-05-24T12:02:59.194Z] POST /api/v1/habits"}
+{"level":"info","message":{"__v":0,"_id":"6831b57340068e96ff557374","createdAt":"2025-05-24T12:02:59.199Z","name":"1 Juz","repeat":"Daily","updatedAt":"2025-05-24T12:02:59.199Z","userId":"681bf9f0f7bbfef335efe78d"}}
+{"level":"info","message":"Habits cache invalidated due to Habit creation"}
+{"level":"info","message":"[2025-05-24T12:03:33.870Z] POST /api/v1/habits"}
+{"level":"info","message":{"__v":0,"_id":"6831b59540068e96ff557376","createdAt":"2025-05-24T12:03:33.876Z","name":"Movement","repeat":"Daily","updatedAt":"2025-05-24T12:03:33.876Z","userId":"681bf9f0f7bbfef335efe78d"}}
+{"level":"info","message":"Habits cache invalidated due to Habit creation"}
+{"level":"info","message":"[2025-05-24T12:03:58.436Z] POST /api/v1/habits"}
+{"level":"info","message":{"__v":0,"_id":"6831b5ae40068e96ff557378","createdAt":"2025-05-24T12:03:58.445Z","name":"Leetcode practice","repeat":"Daily","updatedAt":"2025-05-24T12:03:58.445Z","userId":"681bf9f0f7bbfef335efe78d"}}
+{"level":"info","message":"Habits cache invalidated due to Habit creation"}
+{"level":"info","message":"[2025-05-24T12:04:11.308Z] POST /api/v1/habits"}
+{"level":"info","message":{"__v":0,"_id":"6831b5bb40068e96ff55737a","createdAt":"2025-05-24T12:04:11.310Z","name":"Build things","repeat":"Daily","updatedAt":"2025-05-24T12:04:11.310Z","userId":"681bf9f0f7bbfef335efe78d"}}
+{"level":"info","message":"Habits cache invalidated due to Habit creation"}
+{"level":"info","message":"[2025-05-24T12:04:13.952Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T12:04:14.247Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T12:12:10.532Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T12:12:10.726Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T12:16:13.180Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T12:16:13.438Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T12:21:09.624Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T12:21:09.935Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T12:23:37.211Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T12:23:37.446Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T12:24:14.985Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T12:24:15.315Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T12:31:47.658Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T12:31:47.921Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T12:32:01.299Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T12:32:01.497Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T12:33:02.586Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T12:33:02.755Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T12:33:13.183Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T12:33:13.385Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-24T12:48:17.233Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T12:48:23.602Z] POST /api/v1/auth/login"}
+{"level":"info","message":"[2025-05-24T12:48:27.167Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-24T12:49:35.954Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T12:49:38.101Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-24T12:49:49.958Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-24T12:51:08.139Z] POST /api/v1/auth/login"}
+{"level":"info","message":"[2025-05-24T12:51:10.829Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"[2025-05-24T12:51:34.473Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-24T12:51:37.429Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-24T12:51:58.140Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-24T12:59:03.091Z] POST /api/v1/habit-log"}
+{"level":"info","message":{"__v":0,"_id":"6831c29724b69c471365cc08","createdAt":"2025-05-24T12:59:03.103Z","habitId":"68319f582a4ee74b43823505","isChecked":true,"updatedAt":"2025-05-24T12:59:03.103Z","userId":"681bf9f0f7bbfef335efe78d"}}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-24T13:00:05.676Z] POST /api/v1/habit-log"}
+{"level":"info","message":"[2025-05-24T13:00:42.370Z] POST /api/v1/habit-log"}
+{"level":"info","message":{"__v":0,"_id":"6831c2fafc08b403c14fbdef","createdAt":"2025-05-24T13:00:42.384Z","habitId":"68319f582a4ee74b43823505","isChecked":true,"updatedAt":"2025-05-24T13:00:42.384Z","userId":"681bf9f0f7bbfef335efe78d"}}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"[2025-05-24T13:01:09.398Z] POST /api/v1/habit-log"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":{"__v":0,"_id":"6831c315bbf225ea936dc580","createdAt":"2025-05-24T13:01:09.409Z","date":"2025-05-24T00:00:00.000Z","habitId":"68319f582a4ee74b43823505","isChecked":true,"updatedAt":"2025-05-24T13:01:09.409Z","userId":"681bf9f0f7bbfef335efe78d"}}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-24T13:03:56.478Z] POST /api/v1/habit-log"}
+{"level":"info","message":{"acknowledged":true,"matchedCount":1,"modifiedCount":1,"upsertedCount":0,"upsertedId":null}}
+{"level":"info","message":"[2025-05-24T13:04:08.928Z] POST /api/v1/habit-log"}
+{"level":"info","message":{"acknowledged":true,"matchedCount":0,"modifiedCount":0,"upsertedCount":1,"upsertedId":"6831c3c838e95e6b164bf92c"}}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-24T13:04:42.611Z] POST /api/v1/habit-log"}
+{"level":"info","message":{"acknowledged":true,"matchedCount":1,"modifiedCount":1,"upsertedCount":0,"upsertedId":null}}
+{"level":"info","message":"[2025-05-24T13:04:53.142Z] POST /api/v1/habit-log"}
+{"level":"info","message":{"acknowledged":true,"matchedCount":1,"modifiedCount":1,"upsertedCount":0,"upsertedId":null}}
+{"level":"info","message":"[2025-05-24T13:04:56.343Z] POST /api/v1/habit-log"}
+{"level":"info","message":{"acknowledged":true,"matchedCount":1,"modifiedCount":1,"upsertedCount":0,"upsertedId":null}}
+{"level":"info","message":"[2025-05-24T13:05:04.031Z] POST /api/v1/habit-log"}
+{"level":"info","message":{"acknowledged":true,"matchedCount":0,"modifiedCount":0,"upsertedCount":1,"upsertedId":"6831c40038e95e6b164bf92d"}}
+{"level":"info","message":"[2025-05-24T13:05:37.868Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-24T13:07:00.304Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-24T13:08:54.557Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-24T13:17:48.173Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T13:18:01.897Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T13:18:02.309Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T13:18:57.172Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T13:18:57.455Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T13:19:33.770Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T13:19:34.162Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T13:19:51.635Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T13:19:52.970Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T13:19:53.321Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"[2025-05-24T13:21:49.851Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-24T13:21:52.294Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T13:23:37.159Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T13:23:37.697Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T13:24:08.482Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T13:24:08.667Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T13:24:32.430Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T13:24:32.897Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T13:25:20.461Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T13:25:20.617Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T13:25:31.824Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T13:25:32.060Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T13:26:02.341Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T13:26:02.958Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T13:26:25.529Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T13:26:25.685Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-24T13:28:29.807Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T13:28:30.121Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T13:28:33.728Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T13:30:48.044Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T13:30:48.426Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T13:44:01.014Z] POST /api/v1/habit-log/"}
+{"level":"info","message":"[2025-05-24T13:46:57.432Z] POST /api/v1/habit-log/"}
+{"level":"info","message":"[2025-05-24T13:48:45.805Z] POST /api/v1/habit-log/"}
+{"level":"info","message":"[2025-05-24T13:48:56.613Z] POST /api/v1/habit-log"}
+{"level":"info","message":{"acknowledged":true,"matchedCount":1,"modifiedCount":1,"upsertedCount":0,"upsertedId":null}}
+{"level":"info","message":"[2025-05-24T13:49:01.683Z] POST /api/v1/habit-log/"}
+{"level":"info","message":"[2025-05-24T13:49:18.443Z] POST /api/v1/habit-log/"}
+{"level":"info","message":{"acknowledged":true,"matchedCount":0,"modifiedCount":0,"upsertedCount":1,"upsertedId":"6831ce5e38e95e6b164bf92e"}}
+{"level":"info","message":"[2025-05-24T13:50:18.122Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T13:50:18.422Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T13:50:25.612Z] POST /api/v1/habit-log/"}
+{"level":"info","message":{"acknowledged":true,"matchedCount":0,"modifiedCount":0,"upsertedCount":1,"upsertedId":"6831cea138e95e6b164bf92f"}}
+{"level":"info","message":"[2025-05-24T13:50:25.717Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T13:50:25.949Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T13:52:02.670Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T13:52:02.919Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T14:06:54.259Z] POST /api/v1/habit-log/"}
+{"level":"info","message":{"acknowledged":true,"matchedCount":0,"modifiedCount":0,"upsertedCount":1,"upsertedId":"6831d27e38e95e6b164bf930"}}
+{"level":"info","message":"[2025-05-24T14:06:54.361Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T14:06:54.769Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T14:07:03.804Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T14:07:04.068Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T14:12:18.952Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T14:12:19.227Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T14:12:23.401Z] POST /api/v1/habit-log/"}
+{"level":"info","message":{"acknowledged":true,"matchedCount":0,"modifiedCount":0,"upsertedCount":1,"upsertedId":"6831d3c738e95e6b164bf931"}}
+{"level":"info","message":"[2025-05-24T14:12:23.466Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T14:12:23.846Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-24T14:15:26.484Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T14:15:29.885Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T14:15:30.147Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T14:15:34.573Z] POST /api/v1/habit-log/"}
+{"level":"info","message":{"acknowledged":true,"matchedCount":0,"modifiedCount":0,"upsertedCount":1,"upsertedId":"6831d48638e95e6b164bf932"}}
+{"level":"info","message":"[2025-05-24T14:15:34.928Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T14:15:35.117Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T14:16:01.383Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T14:16:01.615Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T14:17:18.141Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T14:17:18.297Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T14:17:51.701Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T14:17:52.024Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T14:17:58.085Z] POST /api/v1/habit-log/"}
+{"level":"info","message":{"acknowledged":true,"matchedCount":0,"modifiedCount":0,"upsertedCount":1,"upsertedId":"6831d51638e95e6b164bf933"}}
+{"level":"info","message":"[2025-05-24T14:17:58.169Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T14:17:58.335Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T14:20:10.334Z] POST /api/v1/habit-log/"}
+{"level":"info","message":{"acknowledged":true,"matchedCount":1,"modifiedCount":1,"upsertedCount":0,"upsertedId":null}}
+{"level":"info","message":"[2025-05-24T14:20:10.435Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T14:20:10.721Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T14:23:06.458Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T14:23:06.708Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T14:23:11.731Z] POST /api/v1/habit-log/"}
+{"level":"info","message":{"acknowledged":true,"matchedCount":1,"modifiedCount":1,"upsertedCount":0,"upsertedId":null}}
+{"level":"info","message":"[2025-05-24T14:23:11.791Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T14:23:11.968Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T14:23:15.565Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T14:23:15.771Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T14:23:51.496Z] POST /api/v1/habit-log/"}
+{"level":"info","message":{"acknowledged":true,"matchedCount":0,"modifiedCount":0,"upsertedCount":1,"upsertedId":"6831d67738e95e6b164bf934"}}
+{"level":"info","message":"[2025-05-24T14:23:51.591Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T14:23:51.737Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T14:28:16.796Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T14:28:17.047Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T14:29:12.511Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T14:29:12.772Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T14:46:39.885Z] GET /api/v1/tasks/stats"}
+{"level":"info","message":"[2025-05-24T14:46:40.196Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-24T15:22:59.720Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T15:23:27.736Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T15:23:46.799Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T15:29:15.069Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-24T15:32:24.250Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-26T04:38:53.739Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T04:38:54.070Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T04:39:48.975Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T04:40:12.401Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T04:41:02.905Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T04:41:21.423Z] POST /api/v1/habit-log/"}
+{"level":"info","message":{"acknowledged":true,"matchedCount":0,"modifiedCount":0,"upsertedCount":1,"upsertedId":"6833f0f238e95e6b164bf935"}}
+{"level":"info","message":"[2025-05-26T04:41:22.561Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T04:41:39.508Z] POST /api/v1/habit-log/"}
+{"level":"info","message":{"acknowledged":true,"matchedCount":0,"modifiedCount":0,"upsertedCount":1,"upsertedId":"6833f10338e95e6b164bf936"}}
+{"level":"info","message":"[2025-05-26T04:41:39.615Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T04:41:41.737Z] POST /api/v1/habit-log/"}
+{"level":"info","message":{"acknowledged":true,"matchedCount":0,"modifiedCount":0,"upsertedCount":1,"upsertedId":"6833f10538e95e6b164bf937"}}
+{"level":"info","message":"[2025-05-26T04:41:41.790Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T04:42:20.002Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T04:42:38.033Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T04:42:48.410Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-26T04:44:25.115Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T04:44:45.989Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T04:45:17.605Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T04:45:44.611Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T04:45:49.289Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T04:45:56.513Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T04:46:20.413Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T04:46:38.681Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T04:46:41.673Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T04:46:44.586Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T04:46:48.437Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T04:47:10.608Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T04:47:13.809Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T04:47:17.016Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T04:47:19.784Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T04:47:22.313Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T04:47:48.270Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T04:48:32.090Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"[2025-05-26T04:51:55.283Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-26T04:52:38.723Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T04:52:41.463Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T04:52:45.673Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T04:53:17.673Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T04:53:32.280Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T04:53:35.918Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T04:53:42.601Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T04:53:45.535Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T04:53:58.602Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T04:54:01.737Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T04:54:07.772Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T04:55:22.999Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T04:55:26.556Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T04:55:37.659Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T04:56:20.567Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T04:56:24.186Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-26T05:19:35.719Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T05:20:06.631Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T05:20:14.890Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T05:20:18.383Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T05:20:20.987Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T05:20:23.452Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T05:21:10.179Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T05:21:15.248Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T05:22:17.385Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T05:22:58.010Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T05:23:05.574Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T05:23:34.171Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T05:23:38.123Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T05:23:41.064Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T05:23:53.779Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T05:23:56.602Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-26T05:25:05.495Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-26T05:25:11.931Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T05:25:29.716Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T05:25:35.486Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T05:26:14.266Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T05:27:37.973Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T05:28:40.248Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T05:28:47.169Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T05:28:49.488Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T05:28:51.465Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T05:29:14.384Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-26T05:30:59.145Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"[2025-05-26T05:31:01.874Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-26T05:31:04.741Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T05:31:08.824Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T05:31:13.340Z] POST /api/v1/habit-log/"}
+{"level":"info","message":{"acknowledged":true,"matchedCount":0,"modifiedCount":0,"upsertedCount":1,"upsertedId":"6833fca138e95e6b164bf938"}}
+{"level":"info","message":"[2025-05-26T05:31:13.397Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T05:31:15.448Z] POST /api/v1/habit-log/"}
+{"level":"info","message":{"acknowledged":true,"matchedCount":0,"modifiedCount":0,"upsertedCount":1,"upsertedId":"6833fca338e95e6b164bf939"}}
+{"level":"info","message":"[2025-05-26T05:31:15.505Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T05:31:20.631Z] POST /api/v1/habit-log/"}
+{"level":"info","message":{"acknowledged":true,"matchedCount":1,"modifiedCount":1,"upsertedCount":0,"upsertedId":null}}
+{"level":"info","message":"[2025-05-26T05:31:20.696Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T05:32:51.178Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T05:34:55.284Z] POST /api/v1/habit-log/"}
+{"level":"info","message":{"acknowledged":true,"matchedCount":0,"modifiedCount":0,"upsertedCount":1,"upsertedId":"6833fd7f38e95e6b164bf93a"}}
+{"level":"info","message":"[2025-05-26T05:34:55.415Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T05:34:57.235Z] POST /api/v1/habit-log/"}
+{"level":"info","message":{"acknowledged":true,"matchedCount":0,"modifiedCount":0,"upsertedCount":1,"upsertedId":"6833fd8138e95e6b164bf93b"}}
+{"level":"info","message":"[2025-05-26T05:34:57.293Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-26T05:39:42.286Z] POST /api/v1/habits"}
+{"level":"info","message":{"__v":0,"_id":"6833fe9e4f6eec59dbbf4968","createdAt":"2025-05-26T05:39:42.296Z","name":"Listen to podcast","repeat":"Daily","updatedAt":"2025-05-26T05:39:42.296Z","userId":"681bf9f0f7bbfef335efe78d"}}
+{"level":"info","message":"[2025-05-26T05:39:42.402Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T05:40:30.346Z] POST /api/v1/habits"}
+{"level":"info","message":{"__v":0,"_id":"6833fece4f6eec59dbbf496c","createdAt":"2025-05-26T05:40:30.350Z","name":"Doa Nabi Yunus 1000x","repeat":"Daily","updatedAt":"2025-05-26T05:40:30.350Z","userId":"681bf9f0f7bbfef335efe78d"}}
+{"level":"info","message":"[2025-05-26T05:40:30.428Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T05:41:03.788Z] POST /api/v1/habits"}
+{"level":"info","message":{"__v":0,"_id":"6833feef4f6eec59dbbf4970","createdAt":"2025-05-26T05:41:03.790Z","name":"Taubat + Hajat + Istikharah","repeat":"Daily","updatedAt":"2025-05-26T05:41:03.790Z","userId":"681bf9f0f7bbfef335efe78d"}}
+{"level":"info","message":"[2025-05-26T05:41:03.853Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-26T05:54:14.391Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T05:54:20.722Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T05:54:34.586Z] POST /api/v1/auth/login"}
+{"level":"info","message":"[2025-05-26T05:54:35.396Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"[2025-05-26T06:01:57.951Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"error","message":"MongoDB connection error:MongoNetworkError: read ECONNRESET"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-26T06:02:16.720Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T06:02:23.745Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T06:02:31.683Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T06:02:34.066Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T06:02:38.638Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T06:02:54.327Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-26T06:03:09.808Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T06:03:14.498Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-26T06:03:16.688Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T06:04:59.060Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T06:05:04.002Z] GET /api/v1/projects?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Projects retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-26T06:05:04.676Z] GET /api/v1/users?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Users retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-26T06:05:05.530Z] GET /api/v1/tasks?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Tasks retrieved from database and stored in cache"}
+{"level":"info","message":"[2025-05-26T06:05:08.288Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-26T06:17:13.978Z] DELETE /api/v1/habits/6831b59540068e96ff557376"}
+{"level":"info","message":"[2025-05-26T06:18:01.702Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T06:18:08.629Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T06:18:13.427Z] DELETE /api/v1/habits/6831b57340068e96ff557374"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-26T06:19:40.604Z] DELETE /api/v1/habits/6831b5bb40068e96ff55737a"}
+{"level":"info","message":"[2025-05-26T06:19:53.069Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T06:20:00.276Z] DELETE /api/v1/habits/68319f582a4ee74b43823505"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-26T06:20:48.978Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T06:20:58.529Z] DELETE /api/v1/habits/6831b5ae40068e96ff557378"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-26T06:22:29.154Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T06:22:35.179Z] POST /api/v1/habits"}
+{"level":"info","message":{"__v":0,"_id":"683408ab5f80081bbf027d17","createdAt":"2025-05-26T06:22:35.185Z","name":"tes","repeat":"Daily","updatedAt":"2025-05-26T06:22:35.185Z","userId":"681bf9f0f7bbfef335efe78d"}}
+{"level":"info","message":"[2025-05-26T06:22:35.578Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T06:22:39.301Z] DELETE /api/v1/habits/683408ab5f80081bbf027d17"}
+{"level":"info","message":"[2025-05-26T06:22:39.370Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T06:22:46.080Z] POST /api/v1/habits"}
+{"level":"info","message":{"__v":0,"_id":"683408b65f80081bbf027d1f","createdAt":"2025-05-26T06:22:46.082Z","name":"Read a book","repeat":"Daily","updatedAt":"2025-05-26T06:22:46.082Z","userId":"681bf9f0f7bbfef335efe78d"}}
+{"level":"info","message":"[2025-05-26T06:22:46.138Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T06:22:53.673Z] POST /api/v1/habits"}
+{"level":"info","message":{"__v":0,"_id":"683408bd5f80081bbf027d23","createdAt":"2025-05-26T06:22:53.675Z","name":"Leetcode practice","repeat":"Daily","updatedAt":"2025-05-26T06:22:53.675Z","userId":"681bf9f0f7bbfef335efe78d"}}
+{"level":"info","message":"[2025-05-26T06:22:53.735Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T06:23:00.411Z] POST /api/v1/habits"}
+{"level":"info","message":{"__v":0,"_id":"683408c45f80081bbf027d27","createdAt":"2025-05-26T06:23:00.414Z","name":"1 Juz","repeat":"Daily","updatedAt":"2025-05-26T06:23:00.414Z","userId":"681bf9f0f7bbfef335efe78d"}}
+{"level":"info","message":"[2025-05-26T06:23:00.525Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T06:23:08.189Z] POST /api/v1/habits"}
+{"level":"info","message":{"__v":0,"_id":"683408cc5f80081bbf027d2b","createdAt":"2025-05-26T06:23:08.193Z","name":"Movement","repeat":"Daily","updatedAt":"2025-05-26T06:23:08.193Z","userId":"681bf9f0f7bbfef335efe78d"}}
+{"level":"info","message":"[2025-05-26T06:23:08.256Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T06:23:13.016Z] POST /api/v1/habit-log/"}
+{"level":"info","message":{"acknowledged":true,"matchedCount":0,"modifiedCount":0,"upsertedCount":1,"upsertedId":"683408d138e95e6b164bf93c"}}
+{"level":"info","message":"[2025-05-26T06:23:13.225Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-26T06:23:14.610Z] POST /api/v1/habit-log/"}
+{"level":"info","message":{"acknowledged":true,"matchedCount":0,"modifiedCount":0,"upsertedCount":1,"upsertedId":"683408d238e95e6b164bf93d"}}
+{"level":"info","message":"[2025-05-26T06:23:14.666Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"[2025-05-26T07:19:24.425Z] POST /api/v1/habits"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":{"__v":0,"_id":"683415fc72bd8ee7b15300ba","createdAt":"2025-05-26T07:19:24.433Z","name":"yes","repeat":"Daily","updatedAt":"2025-05-26T07:19:24.433Z","userId":"681bf9f0f7bbfef335efe78d"}}
+{"level":"info","message":"[2025-05-26T07:19:24.625Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-31T05:28:59.131Z] POST /api/v1/auth/login"}
+{"level":"error","message":"Login failed: Invalid email or password","stack":"Error: Invalid email or password\n    at AuthService.login (/Users/chil/Documents/Github/learn/taskome/dist/src/services/auth.service.js:54:23)\n    at async /Users/chil/Documents/Github/learn/taskome/dist/src/controllers/auth.controller.js:31:26","status":401}
+{"level":"info","message":"[2025-05-31T05:29:09.886Z] POST /api/v1/auth/login"}
+{"level":"error","message":"Login failed: Invalid email or password","stack":"Error: Invalid email or password\n    at AuthService.login (/Users/chil/Documents/Github/learn/taskome/dist/src/services/auth.service.js:54:23)\n    at async /Users/chil/Documents/Github/learn/taskome/dist/src/controllers/auth.controller.js:31:26","status":401}
+{"level":"info","message":"[2025-05-31T05:29:12.992Z] POST /api/v1/auth/login"}
+{"level":"error","message":"Login failed: Invalid email or password","stack":"Error: Invalid email or password\n    at AuthService.login (/Users/chil/Documents/Github/learn/taskome/dist/src/services/auth.service.js:54:23)\n    at async /Users/chil/Documents/Github/learn/taskome/dist/src/controllers/auth.controller.js:31:26","status":401}
+{"level":"info","message":"[2025-05-31T05:29:15.502Z] POST /api/v1/auth/login"}
+{"level":"info","message":"[2025-05-31T05:29:15.946Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-31T05:44:04.789Z] POST /api/v1/habit-log/"}
+{"level":"info","message":{"acknowledged":true,"matchedCount":0,"modifiedCount":0,"upsertedCount":1,"upsertedId":"683a972438e95e6b164bf991"}}
+{"level":"info","message":"[2025-05-31T05:44:04.892Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-31T05:46:22.920Z] POST /api/v1/habit-log/"}
+{"level":"info","message":{"acknowledged":true,"matchedCount":0,"modifiedCount":0,"upsertedCount":1,"upsertedId":"683a97af38e95e6b164bf992"}}
+{"level":"info","message":"[2025-05-31T05:46:22.984Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-31T05:46:23.872Z] POST /api/v1/habit-log/"}
+{"level":"info","message":{"acknowledged":true,"matchedCount":0,"modifiedCount":0,"upsertedCount":1,"upsertedId":"683a97af38e95e6b164bf993"}}
+{"level":"info","message":"[2025-05-31T05:46:23.922Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-31T05:46:24.841Z] POST /api/v1/habit-log/"}
+{"level":"info","message":{"acknowledged":true,"matchedCount":0,"modifiedCount":0,"upsertedCount":1,"upsertedId":"683a97b038e95e6b164bf994"}}
+{"level":"info","message":"[2025-05-31T05:46:24.896Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-31T06:51:45.322Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-31T06:51:56.270Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-31T06:53:37.363Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-31T06:54:22.889Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"[2025-05-31T06:54:37.461Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-31T07:29:57.826Z] GET /api/v1/habits?pageNumber=1&pageSize=10000"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-31T08:55:19.307Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-05-01"}
+{"level":"info","message":"[2025-05-31T09:02:23.671Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:24.413Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:24.804Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:25.225Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:25.420Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:25.801Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:26.727Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:26.861Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:26.992Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:27.173Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:27.326Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:27.455Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:27.846Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:27.987Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:28.143Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:28.301Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:28.483Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:28.802Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:28.936Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:29.074Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:29.236Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:29.358Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:29.500Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:29.836Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:29.984Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:30.145Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:30.676Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:31.080Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:31.453Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:31.849Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:32.059Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:32.262Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:32.412Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:32.878Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:33.035Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:33.192Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:33.374Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:33.533Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:34.368Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:34.535Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:35.270Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:35.556Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:36.269Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:36.442Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:36.823Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:36.988Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:37.129Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:37.272Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:37.416Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:37.577Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:37.911Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:38.110Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:38.292Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:38.971Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:39.496Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:39.675Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:40.092Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:40.226Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:40.385Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:40.499Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:40.624Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:40.966Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:41.101Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:41.232Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:41.566Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:41.745Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:42.078Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:42.225Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:42.339Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:42.592Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:43.028Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:43.210Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:43.528Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:43.670Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:44.042Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:44.211Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:44.424Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:44.571Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:44.785Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:45.085Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:45.277Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:45.898Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:23.538Z%22}"}
+{"level":"info","message":"[2025-05-31T09:02:47.934Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:02:47.861Z%22}"}
+{"level":"info","message":"[2025-05-31T09:03:28.575Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:03:28.367Z%22}"}
+{"level":"info","message":"[2025-05-31T09:03:50.158Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&{%22date%22:%222025-05-31T09:03:50.056Z%22}"}
+{"level":"info","message":"[2025-05-31T09:04:00.296Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&%222025-05-31T09:04:00.171Z%22"}
+{"level":"info","message":"[2025-05-31T09:04:19.591Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&%222025-05-31T09:04:19.523Z%22"}
+{"level":"info","message":"[2025-05-31T09:05:05.236Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&2025-05-31T09:05:05.038Z"}
+{"level":"info","message":"[2025-05-31T09:05:13.665Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-05-31T09:05:13.595Z"}
+{"level":"info","message":"[2025-05-31T09:05:48.524Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-05-31T09:05:48.320Z"}
+{"level":"info","message":"[2025-05-31T09:06:03.841Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-04-30T09:05:48.320Z"}
+{"level":"info","message":"[2025-05-31T09:06:08.665Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-05-30T09:05:48.320Z"}
+{"level":"info","message":"[2025-05-31T09:06:12.105Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-06-30T09:05:48.320Z"}
+{"level":"info","message":"[2025-05-31T09:06:16.870Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-05-30T09:05:48.320Z"}
+{"level":"info","message":"[2025-05-31T09:06:19.239Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-04-30T09:05:48.320Z"}
+{"level":"info","message":"[2025-05-31T09:06:22.823Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-03-30T09:05:48.320Z"}
+{"level":"info","message":"[2025-05-31T09:06:25.128Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-02-28T09:05:48.320Z"}
+{"level":"info","message":"[2025-05-31T09:06:27.866Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-03-28T09:05:48.320Z"}
+{"level":"info","message":"[2025-05-31T09:06:29.220Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-04-28T09:05:48.320Z"}
+{"level":"info","message":"Server is running on http://localhost:8080"}
+{"level":"info","message":"DB connected... 🧹mongodb+srv://fchilmi5:muCG3PyHc5Acxxw5@cluster0.6jmleuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"}
+{"level":"info","message":"[2025-05-31T09:07:17.112Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-05-28T09:05:48.320Z"}
+{"level":"info","message":"[2025-05-31T09:07:18.911Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-04-28T09:05:48.320Z"}
+{"level":"info","message":"[2025-05-31T09:07:19.920Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-05-28T09:05:48.320Z"}
+{"level":"info","message":"[2025-05-31T09:07:48.581Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-06-28T09:05:48.320Z"}
+{"level":"info","message":"[2025-05-31T09:07:49.616Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-05-28T09:05:48.320Z"}
+{"level":"info","message":"[2025-05-31T09:10:21.753Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-05-31T09:10:21.129Z"}
+{"level":"info","message":"[2025-05-31T09:10:27.875Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-06-30T09:10:21.129Z"}
+{"level":"info","message":"[2025-05-31T09:10:29.546Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-05-30T09:10:21.129Z"}
+{"level":"info","message":"[2025-05-31T09:11:10.834Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-06-30T09:10:21.129Z"}
+{"level":"info","message":"[2025-05-31T09:11:12.119Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-05-30T09:10:21.129Z"}
+{"level":"info","message":"[2025-05-31T09:11:13.839Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-06-30T09:10:21.129Z"}
+{"level":"info","message":"[2025-05-31T09:11:15.604Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-05-30T09:10:21.129Z"}
+{"level":"info","message":"[2025-05-31T09:11:25.540Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-06-30T09:10:21.129Z"}
+{"level":"info","message":"[2025-05-31T09:11:27.088Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-05-30T09:10:21.129Z"}
+{"level":"info","message":"[2025-05-31T09:12:00.250Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-04-30T09:10:21.129Z"}
+{"level":"info","message":"[2025-05-31T09:12:01.595Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-05-30T09:10:21.129Z"}
+{"level":"info","message":"[2025-05-31T09:12:03.092Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-04-30T09:10:21.129Z"}
+{"level":"info","message":"[2025-05-31T09:12:36.705Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-05-30T09:10:21.129Z"}
+{"level":"info","message":"[2025-05-31T09:12:38.372Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-04-30T09:10:21.129Z"}
+{"level":"info","message":"[2025-05-31T09:12:40.363Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-03-30T09:10:21.129Z"}
+{"level":"info","message":"[2025-05-31T09:12:52.198Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-04-30T09:10:21.129Z"}
+{"level":"info","message":"[2025-05-31T09:12:53.978Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-03-30T09:10:21.129Z"}
+{"level":"info","message":"[2025-05-31T09:12:55.772Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-04-30T09:10:21.129Z"}
+{"level":"info","message":"[2025-05-31T09:14:21.640Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-05-30T09:10:21.129Z"}
+{"level":"info","message":"[2025-05-31T09:14:23.580Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-04-30T09:10:21.129Z"}
+{"level":"info","message":"[2025-05-31T09:14:31.158Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-05-31T09:14:30.997Z"}
+{"level":"info","message":"[2025-05-31T09:14:35.425Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-06-30T09:14:30.997Z"}
+{"level":"info","message":"[2025-05-31T09:14:39.185Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-05-30T09:14:30.997Z"}
+{"level":"info","message":"[2025-05-31T09:15:09.354Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-06-30T09:14:30.997Z"}
+{"level":"info","message":"[2025-05-31T09:15:10.583Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-05-30T09:14:30.997Z"}
+{"level":"info","message":"[2025-05-31T09:15:12.175Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-06-30T09:14:30.997Z"}
+{"level":"info","message":"[2025-05-31T09:15:13.792Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-05-30T09:14:30.997Z"}
+{"level":"info","message":"[2025-05-31T09:15:15.388Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-06-30T09:14:30.997Z"}
+{"level":"info","message":"[2025-05-31T09:15:16.864Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-05-30T09:14:30.997Z"}
+{"level":"info","message":"[2025-05-31T09:15:18.471Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-06-30T09:14:30.997Z"}
+{"level":"info","message":"[2025-05-31T09:16:13.608Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-05-31T09:16:13.401Z"}
+{"level":"info","message":"[2025-05-31T09:16:14.760Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-06-30T09:16:13.401Z"}
+{"level":"info","message":"[2025-05-31T09:16:16.224Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-05-30T09:16:13.401Z"}
+{"level":"info","message":"[2025-05-31T09:16:17.837Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-06-30T09:16:13.401Z"}
+{"level":"info","message":"[2025-05-31T09:16:19.880Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-05-30T09:16:13.401Z"}
+{"level":"info","message":"[2025-05-31T09:16:50.431Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-06-30T09:16:13.401Z"}
+{"level":"info","message":"[2025-05-31T09:16:51.469Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-05-30T09:16:13.401Z"}
+{"level":"info","message":"[2025-05-31T09:16:53.025Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-06-30T09:16:13.401Z"}
+{"level":"info","message":"[2025-05-31T09:17:12.376Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-05-31T09:17:12.026Z"}
+{"level":"info","message":"[2025-05-31T09:17:13.812Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-06-30T09:17:12.026Z"}
+{"level":"info","message":"[2025-05-31T09:17:16.295Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-05-30T09:17:12.026Z"}
+{"level":"info","message":"[2025-05-31T09:17:18.943Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-06-30T09:17:12.026Z"}
+{"level":"info","message":"[2025-05-31T09:17:22.199Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-05-30T09:17:12.026Z"}
+{"level":"info","message":"[2025-05-31T09:17:24.136Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-04-30T09:17:12.026Z"}
+{"level":"info","message":"[2025-05-31T09:17:25.386Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-03-30T09:17:12.026Z"}
+{"level":"info","message":"[2025-05-31T09:17:26.807Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-02-28T09:17:12.026Z"}
+{"level":"info","message":"[2025-05-31T09:17:28.184Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-03-28T09:17:12.026Z"}
+{"level":"info","message":"[2025-05-31T09:17:29.263Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-04-28T09:17:12.026Z"}
+{"level":"info","message":"[2025-05-31T09:17:30.437Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-05-28T09:17:12.026Z"}
+{"level":"info","message":"[2025-05-31T09:18:07.107Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-06-28T09:17:12.026Z"}
+{"level":"info","message":"[2025-05-31T09:18:08.507Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-05-28T09:17:12.026Z"}
+{"level":"info","message":"[2025-05-31T09:18:09.657Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-04-28T09:17:12.026Z"}
+{"level":"info","message":"[2025-05-31T09:18:12.217Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-05-31T09:18:11.903Z"}
+{"level":"info","message":"[2025-05-31T09:18:15.269Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-06-30T09:18:11.903Z"}
+{"level":"info","message":"[2025-05-31T09:18:16.882Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-07-30T09:18:11.903Z"}
+{"level":"info","message":"[2025-05-31T09:18:18.390Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-06-30T09:18:11.903Z"}
+{"level":"info","message":"[2025-05-31T09:18:20.770Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-05-30T09:18:11.903Z"}
+{"level":"info","message":"[2025-05-31T09:18:21.834Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-04-30T09:18:11.903Z"}
+{"level":"info","message":"[2025-05-31T09:18:22.599Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-03-30T09:18:11.903Z"}
+{"level":"info","message":"[2025-05-31T09:18:33.784Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-05-31T09:18:33.543Z"}
+{"level":"info","message":"[2025-05-31T09:18:35.458Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-06-30T09:18:33.543Z"}
+{"level":"info","message":"[2025-05-31T09:18:38.764Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-07-30T09:18:33.543Z"}
+{"level":"info","message":"[2025-05-31T09:18:41.331Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-06-30T09:18:33.543Z"}
+{"level":"info","message":"[2025-05-31T09:18:43.278Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-05-30T09:18:33.543Z"}
+{"level":"info","message":"[2025-05-31T09:18:44.657Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-04-30T09:18:33.543Z"}
+{"level":"info","message":"[2025-05-31T09:18:46.019Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-05-30T09:18:33.543Z"}
+{"level":"info","message":"[2025-05-31T09:18:46.808Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-06-30T09:18:33.543Z"}
+{"level":"info","message":"[2025-05-31T09:18:47.948Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-07-30T09:18:33.543Z"}
+{"level":"info","message":"[2025-05-31T09:18:49.124Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-08-30T09:18:33.543Z"}
+{"level":"info","message":"[2025-05-31T09:19:19.980Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-07-30T09:18:33.543Z"}
+{"level":"info","message":"[2025-05-31T09:19:20.534Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-06-30T09:18:33.543Z"}
+{"level":"info","message":"[2025-05-31T09:19:21.348Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-05-30T09:18:33.543Z"}
+{"level":"info","message":"[2025-05-31T09:19:23.306Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-06-30T09:18:33.543Z"}
+{"level":"info","message":"[2025-05-31T09:19:24.832Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-05-30T09:18:33.543Z"}
+{"level":"info","message":"[2025-05-31T09:20:22.799Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-06-30T09:18:33.543Z"}
+{"level":"info","message":"[2025-05-31T09:20:24.056Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-05-30T09:18:33.543Z"}
+{"level":"info","message":"[2025-05-31T09:22:25.875Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-05-31T09:22:25.739Z"}
+{"level":"info","message":"[2025-05-31T09:26:52.329Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-05-31T09:26:51.410Z"}
+{"level":"info","message":"[2025-05-31T09:32:56.246Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-05-31T09:32:55.907Z"}
+{"level":"info","message":"[2025-05-31T09:39:53.822Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-05-31T09:39:53.197Z"}
+{"level":"info","message":"[2025-05-31T09:49:30.717Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-05-31T09:49:29.801Z"}
+{"level":"info","message":"[2025-05-31T09:57:00.034Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-05-31T09:56:59.359Z"}
+{"level":"info","message":"[2025-05-31T10:03:26.276Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-05-31T10:03:25.961Z"}
+{"level":"info","message":"[2025-05-31T10:08:44.283Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-06-30T10:03:25.961Z"}
+{"level":"info","message":"[2025-05-31T10:08:44.572Z] GET /api/v1/habits?pageNumber=1&pageSize=10000&date=2025-05-30T10:03:25.961Z"}
