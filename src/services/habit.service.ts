@@ -44,7 +44,12 @@ export class HabitService {
       .populate("projectId")
       .exec();
   }
-  async aggregateAll(query: any = {}, skip = 0, limit = 1000, date: string) {
+  async aggregateAll(
+    query: any = {},
+    skip = 0,
+    limit = 1000,
+    date: string | Date
+  ) {
     const filterDate = new Date(date);
 
     return this.habitDataSource.aggregate([

@@ -9,3 +9,4 @@ export * from "./pagination.service";
 export * from "./redis.service";
 export * from "./habit.service";
 export * from "./habitLog.service";
+export * from "./event.service";
